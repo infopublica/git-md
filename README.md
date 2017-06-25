@@ -80,3 +80,4 @@ van a encontrar los principales elementos que vamos a estar usando. Ante cualqui
         *   [GitLab](https://about.gitlab.com/)
             *   [Instancia de RiseUp](https://0xacab.org/)
         *   [ScuttleBot](http://evbogue.com/distributedgit/)
+    *   [Lista de 'listas de cosas copadas'](https://github.com/sindresorhus/awesome)
