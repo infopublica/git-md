@@ -12,8 +12,9 @@ kernel de Linux
 ([citando datos del 2016](https://www.linux.com/infographic/25-years-linux-kernel-development)).
 
 Ahora bien, ¿Cuán distinto es el código fuente de una aplicación informática
-respecto a un cuento o una poesía?... a los fines prácticos de git, ¡no hay diferencias! salvo quizás con la prosa, porque cada renglón (línea) tiende a
-tener una mayor cantidad de palabras respecto al código fuente.
+respecto a un cuento o una poesía?... a los fines prácticos de git,
+¡no hay diferencias! salvo quizás porque en la prosa de un cuento esperaríamos
+tener una mayor cantidad de palabras por renglón (línea).
 
 _Whaaat?!_ sí, posta. Aprovechándo esto es que vamos a utilizar la potencialidad
 más fundamental de git en este taller de escritura colectiva y colaborativa.
