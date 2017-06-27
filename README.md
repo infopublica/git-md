@@ -1,27 +1,118 @@
-# Git
+# Taller-Videodebate: escritura colectiva y colaborativa ctrl+c ctrl+v usando git
 
-Git es un "sistema de control de versiones" descentralizado y
-[libre](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
+> ¡Para activistas, periodistas y comunicadores sociales!
+
+**Requisitos:**
+
+-   Cuenta en [GitHub](https://github.com/).
+-   [git](https://git-scm.com/downloads), obviamente.
+-   [Atom](https://github.com/atom/atom/releases/latest) u otro `$EDITOR`.
+
+
+_Recomendaciones:_
+
+-   Sistema operativo GNU+Linux [libre](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
+-   ¡[conectar Atom con GitHub](https://github.atom.io/login)!
+-   Elegir una [interfaz gráfica](https://git-scm.com/downloads/guis),
+    [GitKraken](https://www.gitkraken.com/) está buena pero no es libre :/
+
+
+## Tabla de Contenidos
+
+
+<!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
+
+* [Taller-Videodebate: escritura colectiva y colaborativa ctrl+c ctrl+v usando git](#taller-videodebate-escritura-colectiva-y-colaborativa-ctrlc-ctrlv-usando-git)
+    * [Tabla de Contenidos](#tabla-de-contenidos)
+    * [Git](#git)
+    * [Interfaz de línea de comandos](#interfaz-de-línea-de-comandos)
+    * ["Workflow" básico](#workflow-básico)
+    * [¿Qué sucede ahora si quiero compartir mi trabajo y recibir colaboraciones?](#qué-sucede-ahora-si-quiero-compartir-mi-trabajo-y-recibir-colaboraciones)
+    * [GitHub.com](#githubcom)
+    * [Markdown](#markdown)
+    * [Misc.](#misc)
+
+<!-- tocstop -->
+
+
+- - -
+
+## Git
+
+Es un `sistema de control de versiones` distribuído y libre, fué
 desarrollado por **programadoras del kernel Linux** en 2005 (tras
 [una disputa](https://www.linux.com/news/bitkeeper-and-linux-end-road)
 entre _hackers_ y derechos de propiedad intelectual). Es una herramienta pensada
 para satisfacer las necesidades del trabajo colaborativo con código fuente.
-Así, al menos resulta de utilidad para las **13,600** programadoras
+Al menos, les resulta de utilidad para las **13,600** programadoras
 que han contribuído las **22,000,000** líneas de código fuente que posee el
 kernel de Linux
 ([citando datos del 2016](https://www.linux.com/infographic/25-years-linux-kernel-development)).
 
 Ahora bien, ¿Cuán distinto es el código fuente de una aplicación informática
-respecto a un cuento o una poesía?... a los fines prácticos de git,
+respecto a un cuento, o una poesía? ...a los fines prácticos de git:
 ¡no hay diferencias! salvo quizás porque en la prosa de un cuento esperaríamos
 tener una mayor cantidad de palabras por renglón (línea).
 
-_Whaaat?!_ sí, posta. Aprovechándo esto es que vamos a utilizar la potencialidad
-más fundamental de git en este taller de escritura colectiva y colaborativa.
- :hankey: ...vamos a armar un repositorio! (carpeta bajo control de git) donde
- trabajaremos textos.
+> \- _Whaaat?!_
+>
+> \- sí, pozta :hankey:
 
-# GitHub.com
+## Interfaz de línea de comandos
+
+Lamentablemente, lo desconocido es temido. Para muchas, la sóla idea de
+escribir comandos en una terminal es... cosa de ~~mandinga~~ hackers.
+Tengamos presente que escribir comandos en una terminal, una vez que se entiende
+la lógica subyacente, no es otra cosa más que _**decirle**_ a la máquina lo que
+deseamos que haga.
+
+## "Workflow" básico
+
+Si con la terminal vamos a una carpeta dada y ejecutamos `git init`, el comando
+va a "iniciar" al sistema de control de versiones en dicha carpeta. Si luego
+creáramos un archivo, necesitamos ponerlo en el área de "ensayo" (**staging**).
+Para eso ejecutaremos `git add nombreDelArchivo`. A partir de entonces forma
+parte de nuestra área de ensayo. Sin embargo, todavía no está en el historial.
+
+<!-- el primer archivo q pongamos podría ser LICENSE
+comentar sobre CC y PPL \o/ -->
+
+Si en este momento le preguntáramos a git por el "estado" del control de
+versiones en dicha carpeta, pondríamos `git status`. Él nos diría que tenemos
+un archivo en el área de ensayo "sin comprometer" (**commit**) al historial que
+git guarda para nosotras. ¿Cómo lo comprometemos?...
+
+**IMPORTANTE** cada `commit` _debe_ tener un comentario breve y además _permite_
+incluir una descripción acerca de qué cambios son los que se introducen.
+
+Una vez que nuestra carpeta de trabajo haya avanzado lo suficiente, puede ser
+que tenga una gran cantidad de archivos. Su historial de cambios será una lista
+de los sucesivos commits y puede verse con tan sólo pedir el "registro"
+`git log`.
+
+![Merge branch 'asdfasjkfdlas/alkdjf' into sdkjfls-final](https://imgs.xkcd.com/comics/git_commit.png)
+
+## ¿Qué sucede ahora si quiero compartir mi trabajo y recibir colaboraciones?
+
+TODO.
+
+`git remote add unNombreElegido direccionDelRepositorio.git` y `git push`
+
+`git clone direccionDelRepositorio.git` y `git pull`
+
+<!-- TODO. branch, & pull request. -->
+
+<!-- TODO: Mostrar q cambia todo el contenido del repo con checkout y commit o branch. Mostrar links de commits, q es un hash, y los diff en github... -->
+
+<!--
+![Shit happens](https://i.giphy.com/media/cFkiFMDg3iFoI/giphy-downsized.gif)
+-->
+
+## GitHub.com
+
+<!--
+1. Gh es un frente, aclararlo pa explicitar q hay un detras. Averiguar si ese detras es gpl o no. Y gitlab q licencia tiene?
+-->
 
 Pequeña disquisición pertinente, _GitHub_ es un sitio web que permite a sus
 usuarias compartir (gratuita y públicamente) sus **repositorios** de trabajo.
@@ -33,20 +124,27 @@ posibilitan, por ejemplo, ensayar finales alternativos). Por su parte,
 públicos de terceros. Dicha acción se llama _fork_, y copia todo el repositorio
 incluídas sus _branches_. Ya lo veremos en práctica para que quede claro...
 
-# Markdown
+![If that doesn't fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of 'It's really pretty simple, just think of branches as...' and eventually you'll learn the commands that will fix everything.](https://imgs.xkcd.com/comics/git.png)
+
+## Markdown
 
 Para detectar las diferencias entre una version y otra, git hace comparación
 de línea-a-línea. Por esto será importante que nuestros archivos tengan
 líneas con un largo máximo estándar de `80` caracteres. Además, no vamos a estar
 metiendo documentos de microsoft word! si no que trabajaremos con texto plano y
-descubriremos que _menos es más_. ¿Pero cómo podremos poner los títulos,
+descubriremos que [_menos es más_](https://en.wikipedia.org/wiki/Unix_philosophy).
+¿Pero cómo podremos poner los títulos,
 subtítulos, copetes, negritas, cursivas, etcétera?
+
+<!-- Comentar sobre el largo de caracteres que luego a la hora de hacer
+cambios es preferible que nos queden lineas mas cortas o mas largas antes
+que tener que modificar todo un párrafo por haber sacado dos palabras locas. -->
 
 La [sintáxis "markdown"](https://daringfireball.net/projects/markdown/syntax) es
 una forma sencilla de escribir texto plano con algunos elementos básicos de
 formato. Por ejemplo, podemos poner texto en **negrita** rodeando la(s)
-palabra(s) con dos "\*" ó "\_" y en _cursiva_ rodeando con un único "\*" ó
-"\_". Por ejemplo: se puede escribir \*\*así\*\* y \_asá\_ para tener negrita y
+palabra(s) con dos asteriscos ó guiones bajos y en _cursiva_ rodeando con un único `*` ó
+`_`. Por ejemplo: se puede escribir \*\*así\*\* y \_asá\_ para tener negrita y
 cursiva, respectivamente. A lo largo de este taller adoptaremos
 una convención y usaremos los asteriscos para la negrita y los guiones bajos
 para la cursiva. Por contraejemplo, \_\_no así\_\_ ni \*asá\* (para tener
@@ -60,7 +158,7 @@ van a encontrar los principales elementos que vamos a estar usando. Ante cualqui
 
 - - -
 
-# Notas varias
+## Misc.
 
 *   Tras
     [configurar git por primera vez](https://git-scm.com/book/es/v1/Empezando-Configurando-Git-por-primera-vez#Tu-identidad)
@@ -69,16 +167,39 @@ van a encontrar los principales elementos que vamos a estar usando. Ante cualqui
     _commit_, si uno quisiera resguardar su dirección de correo puede poner
     `USERNAME@users.noreply.github.com`.
 
-*   Algunos recursos de utilidad:
+
+*   Para evitar escribir la clave de GitHub en cada push es recomendable
+    utilizar el acceso [con llave criptográfica SSH](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/).
+
+
+*   Algunos otros recursos de aprendizaje:
     *   [Paso a paso en GitHub](https://guides.github.com/activities/hello-world/)
     *   [Git en 15 minutos de consola](https://try.github.io/levels/1/challenges/1)
-    *   [Guías básicas y avanzadas](https://www.atlassian.com/git)
+    *   [Videos introductorios](https://git-scm.com/videos)
     *   Libro de Git
         *   [v1 en español](https://git-scm.com/book/es/v1)
         *   [v2 en inglés](https://git-scm.com/book/en/v2)
-    *   Otras nubes alternativas a GitHub que además podemos servirnos
-        *   [BitBucket](https://bitbucket.org/)
-        *   [GitLab](https://about.gitlab.com/)
-            *   [Instancia de RiseUp](https://0xacab.org/)
-        *   [ScuttleBot](http://evbogue.com/distributedgit/)
-    *   [Lista de 'listas de cosas copadas'](https://github.com/sindresorhus/awesome)
+
+
+        <!--
+        1. poner intro marketplace de triggers y hooks
+        2. Ver en atom github lista plugins comunitarios. Probarlos, comentarlos y agregarlos en recursos
+        -->
+
+
+*   Para tener a mano siempre:
+    *   [Guías básicas y avanzadas](https://www.atlassian.com/git)
+    *   [Diagrama de flujo para resolver problemas](http://justinhileman.info/article/git-pretty/git-pretty.png)
+    *   [Machete interactivo y profundo](http://ndpsoftware.com/git-cheatsheet.html)
+
+
+*   Alternativas a GitHub
+    *   [BitBucket](https://bitbucket.org/)
+    *   [GitLab](https://about.gitlab.com/)
+        *   [Instancia de RiseUp](https://0xacab.org/)
+    *   [ScuttleBot](http://evbogue.com/distributedgit/)
+
+
+*   Lista de [listados de cosas copadas :eyeglasses:](https://github.com/sindresorhus/awesome)
+
+<!-- Futuros encuentros: GitHub Pages? Jekyll? -->
