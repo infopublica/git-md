@@ -96,9 +96,9 @@ de los sucesivos commits y puede verse con tan sólo pedir el "registro"
 
 TODO.
 
-`git remote add unNombreElegido direccionDelRepositorio.git` y `git push`
+`git remote add unNombreElegido direccionDelRepositorio.git` y `git push`.
 
-`git clone direccionDelRepositorio.git` y `git pull`
+`git clone direccionDelRepositorio.git` y `git pull`.
 
 <!-- TODO. branch, & pull request. -->
 
