@@ -7,7 +7,9 @@
 -   Cuenta en [GitHub](https://github.com/).
 -   [git](https://git-scm.com/downloads), obviamente.
 -   [Atom](https://github.com/atom/atom/releases/latest) u otro `$EDITOR`.
-
+   Por defecto, Atom enviará datos de uso "anónimos" (sistema operativo,
+   version de la aplicación, resolucion de pantalla, etc) a través de Google
+   Analytics. Recomendamos desactivar el paquete "Metrics" en su configuración.
 
 _Recomendaciones:_
 
