@@ -18,10 +18,7 @@ _Recomendaciones:_
 -   Elegir una [interfaz gráfica](https://git-scm.com/downloads/guis),
     [GitKraken](https://www.gitkraken.com/) está buena pero no es libre :/
 
-> Todo esto, lo veremos el primer día.
-
 ## Tabla de Contenidos
-
 
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
 
@@ -38,6 +35,7 @@ _Recomendaciones:_
 
 <!-- tocstop -->
 
+> Todo esto, lo veremos el primer día.
 
 - - -
 
