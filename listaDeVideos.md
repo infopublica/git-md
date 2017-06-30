@@ -8,6 +8,8 @@
 
 ### Subtítulos en español
 
+1.  [Prepárate para el pensamiento híbrido](https://www.ted.com/talks/ray_kurzweil_get_ready_for_hybrid_thinking?language=es)
+1.  [Tu compañía telefónica está mirando](https://www.ted.com/talks/malte_spitz_your_phone_company_is_watching?language=es)
 1.  [¿Pensás que tu correo electrónico es privado? Pensálo de nuevo](https://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again?language=es)
 1.  [¿Conectados pero sólos?](https://www.ted.com/talks/sherry_turkle_alone_together?language=es)
 1.  [Cuidado con las burbujas de filtros en la red](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=es)
