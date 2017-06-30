@@ -78,8 +78,9 @@ creáramos un archivo, necesitamos ponerlo en el área de "ensayo" (**staging**)
 Para eso ejecutaremos `git add nombreDelArchivo`. A partir de entonces forma
 parte de nuestra área de ensayo. Sin embargo, todavía no está en el historial.
 
-<!-- el primer archivo q pongamos podría ser LICENSE
-comentar sobre CC y PPL \o/ -->
+"Normalmente" el primer archivo que debiéramos agregar, es `LICENSE` y supone
+una de las decisiones mas importante para cualquier proyecto. En nuestro caso,
+vamos a trabajar con la [Licencia de Producción de Pares](https://endefensadelsl.org/ppl_deed_es.html).
 
 Si en este momento le preguntáramos a git por el "estado" del control de
 versiones en dicha carpeta, pondríamos `git status`. Él nos diría que tenemos
