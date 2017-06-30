@@ -126,13 +126,37 @@ que el dueño del repositorio (remoto) lo acepte e incorpore.
 
 ## Colgado de una rama
 
-<!-- TODO. branch, & pull request. -->
-
-<!-- TODO: Mostrar q cambia todo el contenido del repo con checkout y commit o branch. Mostrar links de commits, q es un hash, y los diff en github... -->
+Muchas veces los cambios comprometidos/commiteados pueden verse entreverados.
+Es lo que suele llamarse un "conflicto de unión" (**merge conflict**). Cuando
+se trabaja con código, sobre todo, es importante mantener una _rama_ de cambios
+dónde se practica alguna novedad sin afectar la copia "maestra".
 
 <!--
-![Shit happens](https://i.giphy.com/media/cFkiFMDg3iFoI/giphy-downsized.gif)
+en este punto del texto no introduzco la resolucion de los merge conflict
+porque es en base a "hunks" y no mencioné q la comparacion de git es e/ líneas
+...pasa q lo usé en la intro a markdown y largo de caracteres. pero flash.
 -->
+
+![Shit happens](https://i.giphy.com/media/cFkiFMDg3iFoI/giphy-downsized.gif)
+
+Para esta finalidad es que git implementa las "ramas" (**branches**). Se
+pueden crear con `git branch elNombreDeUnaRamaNueva`. Hasta aquí hemos venido
+viendo los flujos de trabajo lineales (add, commit, push y/o pull). Estos
+comandos por defecto han sido trabajando siempre en nuestra rama maestra
+(**master**). Pero podríamos tener tantas ramas como nos fueran necesarias,
+para ensayar distintas alternativas. Al pasar de una rama a otra con
+`git checkout elNombreDeUnaRamaExistente`, los archivos del repositorio serán
+los que correspondan con los cambios que deban ser. Es decir, los _commit_ son
+independientes en cada rama.
+
+<!--
+Mostrar `git log --graph --decorate --oneline` .
+Mostrar links de commits, q es un hash, y los diff en github...
+-->
+
+_NOTA:_ atajo para cambiar a una rama nueva:
+`git checkout -b elNombreDeUnaRamaNueva`.
+(El `-b` le dice a checkout que cree la rama).
 
 ## GitHub.com
 
