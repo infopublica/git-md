@@ -29,7 +29,8 @@ _Recomendaciones:_
     * [Git](#git)
     * [Interfaz de línea de comandos](#interfaz-de-línea-de-comandos)
     * ["Workflow" básico](#workflow-básico)
-    * [¿Qué sucede ahora si quiero compartir mi trabajo y recibir colaboraciones?](#qué-sucede-ahora-si-quiero-compartir-mi-trabajo-y-recibir-colaboraciones)
+    * ["Tire" y "Empuje" abren muchas puertas](#tire-y-empuje-abren-muchas-puertas)
+    * [Colgado de una rama](#colgado-de-una-rama)
     * [GitHub.com](#githubcom)
     * [Markdown](#markdown)
     * [Misc.](#misc)
@@ -94,13 +95,34 @@ de los sucesivos commits y puede verse con tan sólo pedir el "registro"
 
 ![Merge branch 'asdfasjkfdlas/alkdjf' into sdkjfls-final](https://imgs.xkcd.com/comics/git_commit.png)
 
-## ¿Qué sucede ahora si quiero compartir mi trabajo y recibir colaboraciones?
+## "Tire" y "Empuje" abren muchas puertas
 
-TODO.
+El repositorio creado es "local", sin embargo el trabajo mas enriquecedor es
+entre a pares. Para poder compartir debemos agregar un repositorio "remoto".
+Para esto se utiliza el comando `git remote add unNombreElegido direccionDelRepositorio.git`.
+Luego, si pidiéramos el estado (`git status`) veríamos que estamos adelantados
+en algunos "compromisos" que falta "empujar" (**push**) hacia el _repo_
+remoto. Para ello es que nos valemos de `git push`.
 
-`git remote add unNombreElegido direccionDelRepositorio.git` y `git push` 
+A partir de entonces el flujo de trabajo es lineal: add, commit, push. Pero
+claro que hay mucho más, veamos...
 
-`git clone direccionDelRepositorio.git` y `git pull`
+Cuando usamos _GitHub_ como repositorio remoto, siempre será público (salvo que
+gatillemo\$). Por lo tanto, cualquiera puede encontrar nuestro trabajo y
+copiarlo (respetando nuestra licencia). Para ello se hará una copia local
+del repositorio usando `git clone direccionDelRepositorio.git`. Si además esta
+persona resultara ser de nuestra confianza, podemos agregarla como
+colaboradora. Entonces ella podría hacer cambios directamente y luego
+_pushearlos_. Es decir, también puede aplicar un flujo de trabajo lineal:
+add, commit, push. ¿Pero que pasa si yo hice un _commit_ antes y el repo
+remoto está "adelantado"?... Si una "empujó" cambios antes, la otra tendrá que
+"tirar" de ellos desde el repo remoto hacia el suyo local con `git pull`.
+
+Cuando una persona cualquiera (sin ser colaboradora) realica modificaciones en
+su copia local puede realizar una "propuesta de tiraje" (**pull request**) para
+que el dueño del repositorio (remoto) lo acepte e incorpore.
+
+## Colgado de una rama
 
 <!-- TODO. branch, & pull request. -->
 
