@@ -18,6 +18,7 @@ _Recomendaciones:_
 -   Elegir una [interfaz gráfica](https://git-scm.com/downloads/guis),
     [GitKraken](https://www.gitkraken.com/) está buena pero no es libre :/
 
+> Todo esto, lo veremos el primer día.
 
 ## Tabla de Contenidos
 
