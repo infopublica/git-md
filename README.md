@@ -30,6 +30,7 @@ _Recomendaciones:_
     * ["Tire" y "Empuje" abren muchas puertas](#tire-y-empuje-abren-muchas-puertas)
     * [Colgado de una rama](#colgado-de-una-rama)
     * [GitHub.com](#githubcom)
+    * [Concluyendo](#concluyendo)
     * [Markdown](#markdown)
     * [Misc.](#misc)
 
@@ -124,20 +125,7 @@ que el dueño del repositorio (remoto) lo acepte e incorpore.
 
 ## Colgado de una rama
 
-Muchas veces los cambios comprometidos/commiteados pueden verse entreverados.
-Es lo que suele llamarse un "conflicto de unión" (**merge conflict**). Cuando
-se trabaja con código, sobre todo, es importante mantener una _rama_ de cambios
-dónde se practica alguna novedad sin afectar la copia "maestra".
-
-<!--
-en este punto del texto no introduzco la resolucion de los merge conflict
-porque es en base a "hunks" y no mencioné q la comparacion de git es e/ líneas
-...pasa q lo usé en la intro a markdown y largo de caracteres. pero flash.
--->
-
-![Shit happens](https://i.giphy.com/media/cFkiFMDg3iFoI/giphy-downsized.gif)
-
-Para esta finalidad es que git implementa las "ramas" (**branches**). Se
+Git implementa las "ramas" (**branches**) para aislar variaciones de **contexto**. Se
 pueden crear con `git branch elNombreDeUnaRamaNueva`. Hasta aquí hemos venido
 viendo los flujos de trabajo lineales (add, commit, push y/o pull). Estos
 comandos por defecto han sido trabajando siempre en nuestra rama maestra
@@ -173,6 +161,19 @@ públicos de terceros. Dicha acción se llama _fork_, y copia todo el repositori
 incluídas sus _branches_. Ya lo veremos en práctica para que quede claro...
 
 ![If that doesn't fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of 'It's really pretty simple, just think of branches as...' and eventually you'll learn the commands that will fix everything.](https://imgs.xkcd.com/comics/git.png)
+
+## Concluyendo
+
+Todo lo visto hasta aquí puede parecer complicado la primera vez, pero funciona
+de modo bastante directo _...peeero_ es así hasta que no. Si dos personas
+modifican a la vez una misma línea git no tiene forma de saber qué cambios
+son los correctos. Es entonces cuando tenemos un "conflicto de unión"
+(**merge conflict**, aparece así en el git status). Se resuelve eligiendo
+manualmente qué "cachos" (**hunks**) deben conservarse. En el caso mas simple,
+tendríamos la línea en cuestión repetida y delimitada por `<<<<<<<` ...ya lo
+verán, xq pasa! tranca 120.
+
+![Shit happens](https://i.giphy.com/media/cFkiFMDg3iFoI/giphy-downsized.gif)
 
 ## Markdown
 
