@@ -98,10 +98,10 @@ de los sucesivos commits y puede verse con tan sólo pedir el "registro"
 ## "Tire" y "Empuje" abren muchas puertas
 
 El repositorio creado es "local", sin embargo el trabajo mas enriquecedor es
-entre a pares. Para poder compartir debemos agregar un repositorio "remoto".
+entre pares. Para poder compartir debemos agregar un repositorio "remoto".
 Para esto se utiliza el comando `git remote add unNombreElegido direccionDelRepositorio.git`.
 Luego, si pidiéramos el estado (`git status`) veríamos que estamos adelantados
-en algunos "compromisos" que falta "empujar" (**push**) hacia el _repo_
+en algunos "compromisos"/_commits_ que falta "empujar" (**push**) hacia el _repo_
 remoto. Para ello es que nos valemos de `git push`.
 
 A partir de entonces el flujo de trabajo es lineal: add, commit, push. Pero
