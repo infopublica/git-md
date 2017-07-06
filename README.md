@@ -31,6 +31,7 @@ _Recomendaciones:_
     * [Colgado de una rama](#colgado-de-una-rama)
     * [GitHub.com :octocat:](#githubcom-octocat)
     * [Concluyendo](#concluyendo)
+            * [Discusiones de experimentos](#discusiones-de-experimentos)
     * [Markdown](#markdown)
     * [Misc.](#misc)
 
@@ -174,6 +175,27 @@ tendríamos la línea en cuestión repetida y delimitada por `<<<<<<<` ...ya lo
 verán, xq pasa! tranca 120.
 
 ![Shit happens](https://i.giphy.com/media/cFkiFMDg3iFoI/giphy-downsized.gif)
+
+#### Discusiones de experimentos
+
+Cuando todas tienen permiso de push (son colaboradoras) vamos a tener un modelo
+de trabajo en el repositorio, tal que las ramas definen tópicos e ideas. Es
+decir, cuando una diga "ah, voy a agregar/modificar/eliminar esto por cierto
+motivo dado", genera la rama con los cambios y luego hace el pull request
+([mostrar](https://github.com/infopublica/git-md/compare)) para que todas
+discutan y alcancen consenso sobre esos cambios y ese motivo. Si se decide
+proceder a unir/mergear los cambios, listo. Si no, queda el historial de la
+discusión ;)
+
+<!--
+Al mergear se puede hacer un rebase o squash para elegir como se modifica
+el historial de git. Esto es avanzado, lo dejo aquí picando...
+https://help.github.com/articles/merging-a-pull-request/
+
+(por cierto, vean q hay comentarios entre líneas).
+
+Opcionalmente, se puede eliminar la rama dps de mergear.
+-->
 
 ## Markdown
 
