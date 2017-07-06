@@ -144,7 +144,7 @@ _NOTA:_ atajo para cambiar a una rama nueva:
 `git checkout -b elNombreDeUnaRamaNueva`.
 (El `-b` le dice a checkout que cree la rama).
 
-## GitHub.com
+## GitHub.com :octocat:
 
 <!--
 1. Gh es un frente, aclararlo pa explicitar q hay un detras. Averiguar si ese detras es gpl o no. Y gitlab q licencia tiene?
