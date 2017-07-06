@@ -29,7 +29,7 @@ _Recomendaciones:_
     * ["Workflow" básico](#workflow-básico)
     * ["Tire" y "Empuje" abren muchas puertas](#tire-y-empuje-abren-muchas-puertas)
     * [Colgado de una rama](#colgado-de-una-rama)
-    * [GitHub.com](#githubcom)
+    * [GitHub.com :octocat:](#githubcom-octocat)
     * [Concluyendo](#concluyendo)
     * [Markdown](#markdown)
     * [Misc.](#misc)
@@ -144,7 +144,7 @@ _NOTA:_ atajo para cambiar a una rama nueva:
 `git checkout -b elNombreDeUnaRamaNueva`.
 (El `-b` le dice a checkout que cree la rama).
 
-## GitHub.com
+## GitHub.com :octocat:
 
 <!--
 1. Gh es un frente, aclararlo pa explicitar q hay un detras. Averiguar si ese detras es gpl o no. Y gitlab q licencia tiene?
