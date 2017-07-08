@@ -3,7 +3,6 @@
 > ¡Para activistas, periodistas y comunicadores sociales!
 
 **Requisitos:**
-
 -   Cuenta en [GitHub](https://github.com/).
 -   [git](https://git-scm.com/downloads), obviamente.
 -   [Atom](https://github.com/atom/atom/releases/latest) u otro `$EDITOR`.
@@ -31,7 +30,7 @@ _Recomendaciones:_
     * [Colgado de una rama](#colgado-de-una-rama)
     * [GitHub.com :octocat:](#githubcom-octocat)
     * [Concluyendo](#concluyendo)
-            * [Discusiones de experimentos](#discusiones-de-experimentos)
+    * [Discusiones de experimentos](#discusiones-de-experimentos)
     * [Markdown](#markdown)
     * [Misc.](#misc)
 
