@@ -13,18 +13,45 @@ tipo de texto, a quien esta dirigido, tono, registro, contenido (conceptos fuert
 cohesion (hilo conductor), coherencia (tono, tiempo verbal)
 --------------------------------------------------------------------------------
 
-La mejora del humano por herramientas. La asimetria resultante del uso de estas.
-El acceso desigual como expansion de esta asimetria.
+_La mejora del humano por tecnologías_ es tan central a nuestra historia que es
+considerado parte escencial de la especie y como medida de inteligencia.
 
-**Quienes** tienen acceso preferencial. Como obtienen ese acceso. Una herramienta
-habilita otras. Acceso temprano. Apropiacion social de la herramienta. Acceso
-universal. Desefectivizacion de la asimetria mediante la apropiación.
+Cada nueva tecnología se inventa para lograr un objetivo con mayor facilidad,
+en menor tiempo, a mayor volumen, maximizando alguna variable considerada
+deseable.
 
-Para que usan esa herramienta. Como la usan. Voluntad
-¿Que dicen? Valores
-¿Que escuchamos? ¿Que esperamos escuchar? Interpretacion/Resultado/Manipulacion
-¿Como? Medio
+Se presenta como una mejora a una o varias formas previas de realizar
+la misma tarea.
 
-Estrategias para manipulacion.
-Promocion de valores afines.
-Solucionismo y usados.
+Depende de un conjunto de conocimientos y herramientas que deben ser
+accesibles y de otras que deben crearse o descubrirse.
+
+Estas dependencias habilitan un conjunto de posibilidades del cual una
+herramienta es solo una aplicación particular para maximizar un objetivo puntual
+establecido por alguien.
+
+## Vigilancia y Manipulación
+
+La _gran cantidad de datos disponibles sobre todas las personas_ (gracias al
+mercado de datos de los diferentes medios de comunicación) junto con métodos
+estadísticos y modelos de comportamiento permiten descubrir información sobre
+estas, predecirlas e influenciarlas.
+
+La introducción de cada herramientas genera una _asimetría entre quienes tienen
+acceso y quienes no_. La asimetria resultante del uso de estas tercnologías está
+relacionada con la tarea que sirve y con la variable maximizada.
+
+El conocimiento técnico en comportamiento o estadística y las gigantescas
+bases de datos no son facilmente accesibles salvo para el capital concentrado,
+el estado y el sector académico que tiene el conocimiento y será finalmente
+quien lo desarrolle.
+
+Esta herramienta de vigilancia y manipulación permite al estado y el capital
+vender productos, instalar sus candidatos y manipular a las personas para
+mantener su posición de poder.
+
+## Apropiación
+
+En la medida en que las herramientas y el conocimiento se apropian y son de libre
+acceso, se habilitan sus diferentes posibilidades y se resuelve la asimetría
+generada por el acceso desigual.
