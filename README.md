@@ -231,6 +231,20 @@ van a encontrar los principales elementos que vamos a estar usando. Ante cualqui
 
 ## Misc.
 
+*   Plugins de atom que pueden ser de interés para `$ apm install`:
+    *   organized
+    *   atom-focus-mode
+    *   markdown-preview-enhanced
+    *   markdown-folder
+    *   linter-markdown
+    *   language-markdown
+    *   zotero-citations
+    *   zotero-picker
+    *   git-history
+    *   git-time-machine
+    *   split-diff
+    *   latex-completions
+
 *   Tras
     [configurar git por primera vez](https://git-scm.com/book/es/v1/Empezando-Configurando-Git-por-primera-vez#Tu-identidad)
     le hemos dicho nuestro nombre de usuario y correo electrónico. Estos datos
