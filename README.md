@@ -17,22 +17,19 @@ _Recomendaciones:_
 -   ¡[conectar Atom con GitHub](https://github.atom.io/login)!
 y/o elegir una [interfaz gráfica](https://git-scm.com/downloads/guis).
 
-## Tabla de Contenidos
+# Tabla de Contenidos
 
-<!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
+<!-- toc orderedList:0 depthFrom:2 depthTo:2 -->
 
-* [Taller-Videodebate: escritura colectiva y colaborativa ctrl+c ctrl+v usando git](#taller-videodebate-escritura-colectiva-y-colaborativa-ctrlc-ctrlv-usando-git)
-    * [Tabla de Contenidos](#tabla-de-contenidos)
-    * [Git](#git)
-    * [Interfaz de línea de comandos](#interfaz-de-línea-de-comandos)
-    * ["Workflow" básico](#workflow-básico)
-    * ["Tire" y "Empuje" abren muchas puertas](#tire-y-empuje-abren-muchas-puertas)
-    * [Colgado de una rama](#colgado-de-una-rama)
-    * [GitHub.com :octocat:](#githubcom-octocat)
-    * [Concluyendo](#concluyendo)
-            * [Discusiones de experimentos](#discusiones-de-experimentos)
-    * [Markdown](#markdown)
-    * [Misc.](#misc)
+* [Git](#git)
+* [Interfaz de línea de comandos](#interfaz-de-línea-de-comandos)
+* ["Workflow" básico](#workflow-básico)
+* ["Tire" y "Empuje" abren muchas puertas](#tire-y-empuje-abren-muchas-puertas)
+* [Colgado de una rama](#colgado-de-una-rama)
+* [GitHub.com :octocat:](#githubcom-octocat)
+* [Concluyendo](#concluyendo)
+* [Markdown](#markdown)
+* [Misc.](#misc)
 
 <!-- tocstop -->
 
