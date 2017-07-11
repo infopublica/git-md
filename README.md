@@ -15,8 +15,7 @@ _Recomendaciones:_
 
 -   Sistema operativo GNU+Linux [libre](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
 -   ¡[conectar Atom con GitHub](https://github.atom.io/login)!
--   Elegir una [interfaz gráfica](https://git-scm.com/downloads/guis),
-    [GitKraken](https://www.gitkraken.com/) está buena pero no es libre :/
+y/o elegir una [interfaz gráfica](https://git-scm.com/downloads/guis).
 
 ## Tabla de Contenidos
 
