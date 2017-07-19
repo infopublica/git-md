@@ -1,4 +1,4 @@
-el codigo como exclusion / accieso al lenguaje-herramienta
+el codigo como exclusion / acceso al lenguaje-herramienta
 la exclusion como codigo --> asimetria en distintos orígenes (capitales) --.
                                                                            |
 quienes tienen acceso, como acceden / personalismo                         |
