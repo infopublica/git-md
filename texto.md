@@ -1,4 +1,4 @@
-#Estrategia saolucionismo: manipulación y usados
+# Estrategia saolucionismo: manipulación y usados
 
 Una búsqueda principal en la cultura humana ha sido la búsqueda de la totalidad. Esa búsqueda vendría marcada por el deseo 
 de superar lo individual, de acceder a una idea global, universal y con validez general en todo momento y en todo lugar. 
