@@ -1,3 +1,5 @@
+#Estrategia saolucionismo: manipulación y usados
+
 Una búsqueda principal en la cultura humana ha sido la búsqueda de la totalidad. Esa búsqueda vendría marcada por el deseo 
 de superar lo individual, de acceder a una idea global, universal y con validez general en todo momento y en todo lugar. 
 Sabemos que lo particular siempre está relacionado con una totalidad, pero éste deseo de trascendencia de la propia 
@@ -7,7 +9,9 @@ de autoliberación en nombre de la totalidad…
 Del mismo modo conocemos, vemos, leemos y escuchamos los mitos que proponen relatos para el origen del mundo, su
 funcionamiento y su final inevitable. Por otro lado leemos ensayos, artículos y distintos tipos de publicaciones científicas
 que describen al mundo según los principios de la razón. En todos estas experiencias podemos percibir cierto sentimiento de
-totalidad. Ahora bien, todas esas narrativas y discursos presuponen en nuestras mentes la habilidad para elevarnos por sobre lo inmediato de nuestra experiencia y acceder a la generalidad de una razón universal. El acceso a esa totalidad sería algo así como una superación de la experiencia humana para alcanzar un sentimiento de  inmortalidad.
+totalidad. Ahora bien, todas esas narrativas y discursos presuponen en nuestras mentes la habilidad para elevarnos por sobre
+lo inmediato de nuestra experiencia y acceder a la generalidad de una razón universal. El acceso a esa totalidad sería algo
+así como una superación de la experiencia humana para alcanzar un sentimiento de  inmortalidad.
 
 El acceso a la información hoy en día se da principalmente mediante internet, y dentro de ésta solemos intercambiar
 información bajo la forma de usuarios. Ésta definición está dada por el hecho de que nuestra experiencia en internet está
