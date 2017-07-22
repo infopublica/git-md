@@ -50,7 +50,7 @@ control.
 Falkvinge no propone que la imprenta haya sido, ni sea hoy, un arma. Tampoco
 es lo que diremos aquí. Sin embargo, la invención de la imprenta supone una
 primera forma de intercambiar mensajes y puede considerarse una tecnología de
-información de comunicación (ténicamente y en el sentido contemporáneo).
+información y comunicación (técnicamente y en el sentido contemporáneo).
 Justamente es el desarrollo de tecnologías de información y comunicación
 lo que, en suma, ha demostrado un progresivo grado de avance y sofisticación
 ...junto con su _"weaponización"_. Llamamos "weaponización" al proceso por el
