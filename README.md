@@ -3,7 +3,6 @@
 > ¡Para activistas, periodistas y comunicadores sociales!
 
 **Requisitos:**
-
 -   Cuenta en [GitHub](https://github.com/).
 -   [git](https://git-scm.com/downloads), obviamente.
 -   [Atom](https://github.com/atom/atom/releases/latest) u otro `$EDITOR`.
@@ -15,6 +14,7 @@ _Recomendaciones:_
 
 -   Sistema operativo GNU+Linux [libre](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
 -   ¡[conectar Atom con GitHub](https://github.atom.io/login)!
+
 y/o elegir una [interfaz gráfica](https://git-scm.com/downloads/guis).
 
 # Tabla de Contenidos
