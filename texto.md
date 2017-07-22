@@ -1,12 +1,17 @@
-# Texto cccv
-**Temas:** Exclusión como código. Asimetría de acumulación. Manipulación de los usados.
+# Remix lo colectivo como solución
 
-Entre 3000 y 5000 caracteres, con subtítulos. Limitado a 80 de ancho.
+## Indice
 
-Conceptos fuertes, registro (expositivo/narrativo), destinatario.
-Coherencia y cohesión. Mantener tema y formato.
+1. Contextos
+2. Estrategia solucionismo: manipulación y usados
+3. Filosofía de los usados
+4. Manipulación y represión
+5. Vigilancia y apropiación
 
-# Filosofía de los usados
+
+
+
+# 3. Filosofía de los usados
 
 ## La grieta es universal
 Las partículas elementales que crean todos los cuerpos humanos son las mismas
@@ -78,3 +83,4 @@ En este momento tenemos medios de comunicación alternativos a bajo costo y esta
 Lo que saben es como producir comida sin usar petroleo, lo que saben es como tranquilizar el alma sin pastillas, es como organizarnos para no pelear y como vivir con justicia sin dinero.
 
 Hay que reconocer nuestro fracaso en esas áreas, hay que abandonar el barco de los estados-nación, de ser televidentes de producciones foráneas, de ser radioescuchas y audiencia de medios de comunicación que sólo hablan de los intereses económicos de sus dueños. Pero sobre todo tenemos que dejar de buscar frenéticamente cosas vacías, dejar de hacer conseciones en nuestros sueños, y soñar -eso sí- un mundo donde quepan muchos mundos
+
