@@ -1,7 +1,6 @@
-﻿# Remix lo colectivo como solución
+# Remix lo colectivo como solución
 
 ## Indice
-
 
 1. Contextos
 2. Estrategia solucionismo: manipulación y usados
