@@ -283,4 +283,4 @@ van a encontrar los principales elementos que vamos a estar usando. Ante cualqui
 
 *   Lista de [listados de cosas copadas :eyeglasses:](https://github.com/sindresorhus/awesome)
 
-<!-- Futuros encuentros: GitHub Pages? Jekyll? -->
+<!-- Futuros encuentros: GitHub Pages? Jekyll? mágia? -->
