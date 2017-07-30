@@ -44,11 +44,12 @@ canónico? el manejo **remoto** de _drones_ asesinos.
 > dicen a donde debes ir en Internet. La gente que te brinda las fuentes de
 > noticias e información. No es que cierta gente tiene licencia para hablar,
 > ahora todos pueden hablar. La cuestión es quién \[y cómo\] se hace escuchar"
-> ([Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz), November 8, 1986 – January 11, 2013\).
+> ([Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz), November 8, 1986 – January 11,
+2013\).
 
 Las grandes corporaciones valen miles de millones de dolares por ser las
-mejores explotando una cosa: la información. Además, es como dice [Hossein Derakhshan](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)
-(tras haber estado preso seis años entre 2008 y 2014, por escribir en contra
+mejores explotando una cosa: la información. Además, es como dice [Hossein Derakhshan](https://medium.com/matter/the-web-we
+-have-to-save-2eb1fe15a426) (tras haber estado preso seis años entre 2008 y 2014, por escribir en contra
 del régimen Iraní en su blog):
 
 > "Quizás es que el texto en sí mismo está desapareciendo. Después de todo, los
