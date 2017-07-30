@@ -9,31 +9,11 @@
 5. Vigilancia y apropiación
 
 # 1 Contextos
-a informaciòn como herramienta para la liberaciòn o la dominaciòn, y de què
-manera puede ser aplicada. La comunicaciòn (o sus medios, soporte, distintas
-formas).... La comunicaciòn en el sentido de estar al servicio del capital,
-de las corporaciones, de los poderes econòmicos, en la bùsqueda de su
-permanencia en ese lugar de privilegio o, màs aùn, de incrementar sus
-privilegios. Por ahì serìa de relevancia un recorrido històrico de quiènes
-fueron teniendo estas herramientas desde un inicio de las dominaciones, y por
-otro lado tener en cuenta la comunicaciòn como algo inherente a todxs desde
-las relaciones y expresiones màs bàsicas y primitivas, inherentes a la
-existencia misma. Y tambièn incorporando las herramientas de la psicologìa y el
-màrketing basàndose en los deseos de las personas (en esto recuerdo la serie
-documental de la BBC -creo- llamada El siglo del yo -The century of the self-:
-https://es.wikipedia.org/wiki/El_siglo_del_individualismo).
-
 ¿Todos los inventos se convierten en armas?
 
-Si todos los inventos se convierten en armas, ¿Será porque las guerras son una
-característica intrínsicamente humana, como la "inteligencia"? ¿Qué es esta cosa
-que llamamos inteligencia? ¿una capacidad de procesar información con el fin de
-extraer conocimiento _útil_?...
-
-Todos los inventos se convierten en armas. Ejemplo canónico, la energía atómica.
+Todos los inventos se convierten en armas. Ejemplo canónico, la energía atómica...
 Pero antes fueron el fuego, la rueda y quizás la imprenta. Por dar tres ejemplos
-groseros de la historia humana, cada ejemplo requiere de un grado mayor de
-abstracción, parece mas forzado...
+groseros de la historia.
 
 Rick Falkvinge narra en ["Historias del Copyright"](https://utopia.partidopirata.com.ar/historia_del_copyright.html)
 bajo qué contextos sociales surgen las leyes de propiedad intelectual. Es muy
@@ -82,11 +62,11 @@ del régimen Iraní en su blog):
 > cosas, y compañias enteras --monopolios enteros-- fueron construidos a
 > partir de ello. (...)
 > Pero el "Stream" \[NdT: pag. de inicio en facebook x ej\], las aplicaciones
-> de celulares y las imágenes que se mueven, todo: demuestran un alejamiento
-> desde la internet-libro hacia la internet-television. Parece que nos hemos
+> de celulares y las imágenes que se mueven, todo: demuestra un alejamiento
+> desde la internet-libro hacia la internet-televisión. Parece que nos hemos
 > ido desde un modo no-linear de comunicacion (nodos, red y enlaces) a uno
-> **linear, con centralizacion y jerarquias.** La red no fue visionada
-> como una forma de televisión cuando se inventó. Pero, nos guste o no, está
+> **linear, con centralizacion y jerarquias.**. La red no fue visionada
+> como una forma de televisión cuando se inventó, pero, nos guste o no, está
 > rápidamente pareciéndose a la TV: lineal, pasiva, programada y **autista**.
 > Cuando entro a facebook, mi television personal comienza. Todo lo que tengo
 > que hacer es scrollear: amigos con fotos de perfil nuevas, pequeños trocitos
@@ -120,63 +100,81 @@ Según Wu, "El Ciclo" tiene 5 etapas:
 5. Tras un período de estancamiento, una nueva tecnología emerge para disromper la vieja. Esto a veces desaloja al viejo monopolio. Pero a veces sólo lo cristaliza.
 
 Estamos en el paso 4. Prueba de ello son los avances contra la neutralidad de
-la red. Paralelo al paso 2, 3 y 4, también podríamos datar la "weaponización"
+la red (**desarrollar**). Paralelo al paso 2, 3 y 4, también podríamos datar la "weaponización"
 anteriormente descripta.
+
+En esa progresión que está sufreindo internet como tecnología, podemos identificar un punto de partida y una serie de
+elementos que van generando las señales del camino que está siguiendo y nos indican la dirección de su destino. 
 
 # 2 Estrategia solucionismo: manipulación y usados
 
-Una búsqueda principal en la cultura humana ha sido la búsqueda de la totalidad. Esa búsqueda vendría marcada por el deseo 
-de superar lo individual, de acceder a una idea global, universal y con validez general en todo momento y en todo lugar. 
-Sabemos que lo particular siempre está relacionado con una totalidad, pero éste deseo de trascendencia de la propia 
-particularidad puede pensarse como una expresión del deseo por la libertad. A lo largo de historia han existido movimientos 
-de autoliberación en nombre de la totalidad…
+El punto de partida
 
-Del mismo modo conocemos, vemos, leemos y escuchamos los mitos que proponen relatos para el origen del mundo, su
-funcionamiento y su final inevitable. Por otro lado leemos ensayos, artículos y distintos tipos de publicaciones científicas
-que describen al mundo según los principios de la razón. En todos estas experiencias podemos percibir cierto sentimiento de
-totalidad. Ahora bien, todas esas narrativas y discursos presuponen en nuestras mentes la habilidad para elevarnos por sobre
-lo inmediato de nuestra experiencia y acceder a la generalidad de una razón universal. El acceso a esa totalidad sería algo
-así como una superación de la experiencia humana para alcanzar un sentimiento de  inmortalidad.
+Una búsqueda peculiar en la cultura ha sido y sigue siendo la búsqueda de la totalidad. Esa búsqueda vendría marcada por el
+deseo de superar lo individual, de acceder a una idea global, universal y con validez general en todo momento y en todo
+lugar. Sabemos que lo particular siempre está relacionado con una totalidad, pero éste deseo de trascendencia de la propia 
+particularidad puede pensarse como una expresión del deseo de la capacidad de hacer, de modificar las condiciones que nos
+brinda el entorno, por alcanzar la libertad. A lo largo de historia han existido movimientos 
+de autoliberación en nombre de la totalidad…(**¿hacen falta ejemplos**)
 
-El acceso a la información hoy en día se da principalmente mediante internet, y dentro de ésta solemos intercambiar
-información bajo la forma de usuarios. Ésta definición está dada por el hecho de que nuestra experiencia en internet está
+Del mismo modo, conocemos, vemos, leemos y escuchamos los mitos que proponen relatos para el origen del mundo, su
+funcionamiento y su final inevitable. Así es que por otro lado, leemos ensayos, artículos y distintos tipos de publicaciones
+científicas que describen al mundo según los principios de la razón. En el mejor de los casos a lo largo de nuestra vida
+eventualmente aportamos información a través de algún tipo de publicación: escribimos un texto o un artículo en un blog,
+diseñamos algo, producimos un vídeo, componemos una canción y/o publicamos algo en alguna red social. Se podría decir que
+todas estas experiencias poseen el factor común de conferirnos cierto sentimiento de totalidad. Ahora bien, todas esas
+narrativas, lenguajes y discursos involucran la habilidad para elevarnos por sobre lo inmediato de
+nuestra experiencia individual y acceder a la generalidad de una razón colectiva universal. El acceso a esa totalidad sería
+algo así como una superación de la experiencia humana para alcanzar una especie de sentimiento de inmortalidad.
+
+Las señales que nos definen
+
+El acceso a la información hoy en día se da principalmente mediante internet. Dentro de ésta solemos intercambiar
+información bajo la forma de usuarixs. Ésta definición está dada por el hecho de que nuestra experiencia en internet es
 soportada por un conjunto de servidores que ofrecen el servicio de acceso y almacenamiento de información. Pero pese a cómo
-se muestra, como un espacio anónimo para la libre recreación del individuo y su personalidad, es decir como evocación neutral
-de un supuesto medio ambiente físico y social democráticos; internet opera en realidad como un mundo cerrado e inaccesible,
-lo que se puede ver, a lo que se accede, constituye una interfaz de simulación a modo de plataformas interactivas a través de
-las cuales los usuarios nos conectamos.
+se muestra, es decir como un espacio anónimo para la libre recreación del individuo y su personalidad, es decir como
+evocación neutral de un supuesto medio ambiente físico y social democráticos; internet opera en realidad como un mundo
+cerrado e inaccesible: lo que se puede ver, a lo que se accede, constituye una interfaz de simulación a modo de plataformas
+interactivas a través de las cuales los usuarios nos conectamos.
 
 En todo esto, la/el cuerpx material de la sujetx usuarix está ausente, lo que existe es su metadata, la información sobre el
-aquí y ahora de su ubicación y su comportamiento en el fluido de la información. Cuando esa metadata es sometida a vigilancia
-y se vincula a la identidad de un cuerpo humano físico, adquiere la capacidad de re/crear una sujetx del control. Pero
-nuestras cuerpas no son la única soporte material que tenemos como individuxs. Estamos inscriptxs en una serie de sistemas de
-información que legislan, regulan y sancionan las formas en las que atravesamos las instituciones. Esos soportes materiales
-de nuestras personas son archivos estatales, judiciales, migratorios, impositivos, historias clínicas, contraseñas de
-portales de organismos de gestión pública y muchos otros.
+aquí y ahora de su ubicación y su comportamiento en el fluido de la información. Cuando esa metadata es sometida a
+vigilancia y se vincula a la identidad de una cuerpx humanx físicx, adquiere la capacidad de re/crear una sujetx del
+control. Pero nuestrxs cuerpxs no son la únicx soporte material que tenemos como individuxs. Estamos inscriptxs en una serie
+de sistemas de información que legislan, regulan y sancionan las formas en las que atravesamos las instituciones. Esos
+soportes materiales de nuestras personas son archivos estatales, judiciales, migratorios, impositivos, médicos,
+contraseñas de portales de organismos de gestión pública y muchos otros.
 
-La capacidad de los poderes políticos y económicos que tienen el monopolio exclusivo de acceso a nuestra información y de
+Una estrategia en una dirección
+
+La capacidad de los poderes políticos y económicos que tienen el monopolio exclusivo del acceso a nuestra información y de
 definir nuestras identidades mediante la interconexión de una serie de datos en los soportes que dan sustrato al sistema
-social, es el basamento represivo principal de la distribución desigual del poder en la internet que conocemos.
+social, constituye el basamento represivo principal de la distribución desigual del poder en la internet que conocemos.
 
-Así, el esfuerzo por profundizar el enfoque que define la construcción de unx usuarix con una personalidad, constituye la
-expresión de la necesidad de plantear una unidad de informacion acotada y controlable. También representa el desenlace de la
-identidad del individuo como ciudadano, también vinculado a una serie de datos controlados por el estado. Pero la categoría
-de usuarix en relación a la experiencia de realidad ofrecida por una plataforma, representa un desenlace que no libera, sino
-que por el contrario concreta el objetivo de vincular en un orden superior de complejidad, no sólo la informacion (ya
-controlada) del ciudadano, sino tambien, y sobre todo, la del sujeto ciudadano consumidor en el ámbito público, privado y en
-el de las redes. De esta forma, la definición biológica de especie como un grupo de individuos capaces de reproducirse
-(intercambiar información), de individuo como persona sujeta de derechos, de ser humano como especie social que se organiza
-a través de reglas consensuadas en una estructura de poder centralizada y el hecho que esa forma de poder conforme un estado
-que reglamenta las leyes que garantizan las relaciones justas entre los individuos; todo esto converge en el punto de control
-en el que el poder requiere contar con una unidad (o categoria) de análisis para perpetuar su situación, un ente que genera
-datos a través de los medios que se ponen a disposicion en el mercado.
+Así, el esfuerzo por profundizar el enfoque que define la construcción sibólica de unx usuarix con una personalidad,
+constituye la expresión de la necesidad de plantear una unidad de información acotada y controlable. También representa el
+desenlace de la identidad de lx individux como ciudadanx, también vinculadx a una serie de datos controlados por el estado.
+Sin embargo, la categoría usuarix en esta internet y en relación a la experiencia de realidad ofrecida por una "X"
+plataforma, representa un desenlace que no libera sino que por el contrario, concreta el objetivo de vincular en un orden
+superior de complejidad, no sólo la informacion (ya controlada) del ciudadano, sino también (y sobre todo), la de lx sujetx
+ciudadanx consumidorx en el ámbito público, en el privado y en el de las redes. De esta forma, la definición biológica de
+especie como un grupo de individuos capaces de reproducirse (intercambiar información), de individuo como persona sujeta de
+derechos, de ser humano como especie social que se organiza a través de reglas consensuadas en una estructura de poder
+centralizada y el hecho de que esa forma de poder conforme un estado que reglamenta las leyes que garantizan las relaciones
+justas entre los individuos; todo esto converge en el punto de control en el que el poder requiere contar con una unidad (o
+categoria) de análisis para perpetuar su situación, un ente que genera datos a través de los medios que se ponen a
+disposicion en el mercado.
+
+Ser usados como único destino
 
 De esta forma, el control del mercado por parte de los intereses privados y el control estatal convergen ambos bajo una
 redefinición del acceso a bienes culturales como una forma más de consumo. A través del consumo y en particular, de la
-adopción sumisa de nuestros roles como consumidores, ciudadanxs y usuarixs, los poderes nos ofrecen inscribirnos dentro de un
-relato que nos propone (o nos vende) el acceso a la totalidad de la experiencia humana. De esta forma, el libre acceso se
-plantea como un modelo de circulación de mercancías culturales y como un discurso sobre las condiciones de control del medio,
-que se nos plantean como dadas.
+adopción sumisa de nuestros roles como consumidorxs, ciudadanxs y usuarixs, los poderes nos fuerzan a inscribirnos dentro de
+un relato que nos propone (o nos vende) el acceso a la totalidad de la experiencia humana. De esta forma, el libre acceso se
+plantea como un modelo de circulación de mercancías culturales y como un discurso sobre las condiciones de control del
+medio, que se nos plantean como dadas.
+
+La posibilidad de abrir nuevos caminos
 
 En este conexto el analfabetismo digital es funcional al sueño de la internet como espacio liberador y liberado. Sólo unos
 pocos privilegiados, aquellxs quienes trabajan asistiendo al servicio técnico de la red de control de datos que es la www y
