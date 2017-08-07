@@ -48,8 +48,7 @@ canónico? el manejo **remoto** de _drones_ asesinos.
 2013\).
 
 Las grandes corporaciones valen miles de millones de dolares por ser las
-mejores explotando una cosa: la información. Además, es como dice [Hossein Derakhshan](https://medium.com/matter/the-web-we
--have-to-save-2eb1fe15a426) (tras haber estado preso seis años entre 2008 y 2014, por escribir en contra
+mejores explotando una cosa: la información. Además, es como dice [Hossein Derakhshan](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426) (tras haber estado preso seis años entre 2008 y 2014, por escribir en contra
 del régimen Iraní en su blog):
 
 > "Quizás es que el texto en sí mismo está desapareciendo. Después de todo, los
