@@ -115,13 +115,13 @@ El principio de neutralidad de la red implica que las compañias proveedoras de 
 conexión no dan mayor o menor velocidad al tránsito según se trate de la usuaria
 queriendo ingresar a Wikipedia o... Netflix. Es decir, ningún sitio puede pagar al
 proveedor de Internet para que las usuarias tengan mejor tránsito hacia su sitio.
-Obviamente si miramos con ojos críticos proyectos como Facebook Basics o las
-promociones de WhatsApp ilimitado nos daríamos cuenta que la tan mentada neutralidad
-es una utopía... pero volvamos a los pasos de "El Ciclo" según Wu.
+Obviamente si miramos con ojos críticos proyectos como "Facebook Basics" o las
+promociones de "WhatsApp ilimitado" nos daríamos cuenta que la tan mentada neutralidad
+es tanto utopía como nostalgia de un tiempo que no llegamos a vivir...
 
-En esa progresión que está sufriendo Internet como tecnología,
-podemos identificar un punto de partida, en los laboratorios, y una serie de
-elementos que van generando las huellas de su camino. Su destino pareciera e$crito.
+En esta progresión que estamos dándo a Internet podemos identificar tanto
+su punto de partida en los laboratorios así como también a una serie de
+elementos, las huellas de su recorrido. Su destino pareciera e$crito.
 
 ## Estrategia solucionismo
 
@@ -132,7 +132,7 @@ deseo de superar lo individual, de acceder a una idea global, universal y con va
 lugar. Sabemos que lo particular siempre está relacionado con una totalidad, pero éste deseo de trascendencia de la propia 
 particularidad puede pensarse como una expresión del deseo de la capacidad de hacer, de modificar las condiciones que nos
 brinda el entorno, por alcanzar la libertad. A lo largo de historia han existido movimientos 
-de autoliberación en nombre de la totalidad…(**¿hacen falta ejemplos**)
+de autoliberación en nombre de la totalidad…
 
 Del mismo modo, conocemos, vemos, leemos y escuchamos los mitos que proponen relatos para el origen del mundo, su
 funcionamiento y su final inevitable. Así es que por otro lado, leemos ensayos, artículos y distintos tipos de publicaciones
