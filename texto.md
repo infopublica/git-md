@@ -2,13 +2,13 @@
 
 ## Indice
 
-1. Contextos
-2. Estrategia solucionismo: manipulación y usados
-3. Filosofía de los usados
-4. Manipulación y represión
-5. Vigilancia y apropiación
+1. [El fuego y la rueda](#El-fuego-y-la-rueda)
+2. [Estrategia solucionismo](#Estrategia-solucionismo)
+3. [Filosofía de los usados](#Filosofía-de-los-usados)
+4. [Manipulación y represión](#Manipulación-y-represión)
+5. [Vigilancia y apropiación](#Vigilancia-y-apropiación)
 
-# 1 Contextos
+## El fuego y la rueda
 ¿Todos los inventos se convierten en armas?
 
 Todos los inventos se convierten en armas. Ejemplo canónico, la energía atómica...
@@ -123,9 +123,9 @@ En esa progresión que está sufriendo Internet como tecnología,
 podemos identificar un punto de partida, en los laboratorios, y una serie de
 elementos que van generando las huellas de su camino. Su destino pareciera e$crito.
 
-# 2 Estrategia solucionismo: manipulación y usados
+## Estrategia solucionismo
 
-El punto de partida
+### El punto de partida
 
 Una búsqueda peculiar en la cultura ha sido y sigue siendo la búsqueda de la totalidad. Esa búsqueda vendría marcada por el
 deseo de superar lo individual, de acceder a una idea global, universal y con validez general en todo momento y en todo
@@ -144,7 +144,7 @@ narrativas, lenguajes y discursos involucran la habilidad para elevarnos por sob
 nuestra experiencia individual y acceder a la generalidad de una razón colectiva universal. El acceso a esa totalidad sería
 algo así como una superación de la experiencia humana para alcanzar una especie de sentimiento de inmortalidad.
 
-Las señales que nos definen
+### Las señales que nos definen
 
 El acceso a la información hoy en día se da principalmente mediante internet. Dentro de ésta solemos intercambiar
 información bajo la forma de usuarixs. Ésta definición está dada por el hecho de que nuestra experiencia en internet es
@@ -162,7 +162,7 @@ de sistemas de información que legislan, regulan y sancionan las formas en las 
 soportes materiales de nuestras personas son archivos estatales, judiciales, migratorios, impositivos, médicos,
 contraseñas de portales de organismos de gestión pública y muchos otros.
 
-Una estrategia en una dirección
+### Una estrategia en una dirección
 
 La capacidad de los poderes políticos y económicos que tienen el monopolio exclusivo del acceso a nuestra información y de
 definir nuestras identidades mediante la interconexión de una serie de datos en los soportes que dan sustrato al sistema
@@ -182,7 +182,7 @@ justas entre los individuos; todo esto converge en el punto de control en el que
 categoria) de análisis para perpetuar su situación, un ente que genera datos a través de los medios que se ponen a
 disposicion en el mercado.
 
-Ser usados como único destino
+### Ser usados como único destino
 
 De esta forma, el control del mercado por parte de los intereses privados y el control estatal convergen ambos bajo una
 redefinición del acceso a bienes culturales como una forma más de consumo. A través del consumo y en particular, de la
@@ -191,7 +191,7 @@ un relato que nos propone (o nos vende) el acceso a la totalidad de la experienc
 plantea como un modelo de circulación de mercancías culturales y como un discurso sobre las condiciones de control del
 medio, que se nos plantean como dadas.
 
-La posibilidad de abrir nuevos caminos
+### La posibilidad de abrir nuevos caminos
 
 En este conexto el analfabetismo digital es funcional al sueño de la internet como espacio liberador y liberado. Sólo unos
 pocos privilegiados, aquellxs quienes trabajan asistiendo al servicio técnico de la red de control de datos que es la www y
@@ -202,9 +202,9 @@ orden presente de las cosas y de las reglas que gobiernan los espacios tanto onl
 plantear esas disputas.
 
 
-# 3. Filosofía de los usados
+## Filosofía de los usados
 
-## La grieta es universal
+### La grieta es universal
 Las partículas elementales que crean todos los cuerpos humanos son las mismas
 que hace miles de millones de años llegaron a nuestro planeta desde el núcleo de las estrellas gigantes y remotas.
 
@@ -214,12 +214,12 @@ Acá lo explica el Neil DeGrasse Tyson:
 Sin embargo, desde el instante posterior al big bang existe una desigualdad en la distribución de la materia en el universo, debido a [un proceso astrofísico aún no
 esclarecido](http://www.physics.org/article-questions.asp?id=121).
 
-# Tendiendo y rompiendo puentes
+### Tendiendo y rompiendo puentes
 Los grupos humanos forman relaciones de interdependencia, nadie puede existir en soledad absoluta, siempre se está rodeado del trabajo ajeno, al punto que a veces se lo deja de valorar, y se exige demasiado.
 
 Entonces ocurre que una persona opone resistencia a satisfacer determinadas necesidades, luego se arman grupos de personas resistiéndose el uno al otro, y grupos de grupos, y así hasta lograr divisiones, especializaciones y estratificaciones tan complejas como el cerebro humano lo permite.
 
-# El material circulante
+### El material circulante
 En esta intrincada red de relaciones sociales, las divisiones se recubren de símbolos. Cada agujero, cada vacío tiene una reacionalización que la explica.
 
 ¿Qué mandamos cuando nos comunicamos con otros? ¿Una piña o una caricia?
@@ -231,7 +231,7 @@ Cada uno intenta ir acomodándose para poder subsistir en un mundo tan violento 
 Las relaciones amorosas son en las que nos entregamos sin especulación, damos lo que tenemos sin expectativa de retener al otro por eso.
 Las relaciones violentas son aquellas donde forzamos al otro a darnos lo que necesitamos sin que sea su voluntad.
 
-## La libertad es de todes
+### La libertad es de todes
 
 No se puede ser 100% libre por que nuestras necesidades vitales no se satisfacen en soledad.
 Pero la libertad que haya debe ser la libertad de todos, debe incluirlos a todos, porque no se llega a la libertad mientras haya rejas.
@@ -243,14 +243,14 @@ Como muestra la siguiente tabla periódica, las necesidades humanas son muy dive
 
 [Fuente](http://thinkersco.com/wp/2015/05/20/tabla_periodica_necesidades/)
 
-# Que hacer
+### Que hacer
 Para elevar la consciencia más allá de las ideas preconcebidas, para poder aprender por nosotros mismos de lo que ocurre, sin negarlo, sin traicionarnos, es necesario conservar el pasmo ante los fenómenos, poder ver las cosas como son, consolidar nuestra base en la realidad inmediata, en lo que actualmente ocurre en nuestra consciencia y no en ideas abstractas.
 
 Por ejemplo asociar nuestra identidad a una nación o nuestro lugar en la sociedad es sólo un reflejo del deber-ser, del super-yo, que tanto nos exige. Es una carga que nos impide ser a la vez conscientes de lo concreto de nuestra percepción y también del camino eterno, del pasado y el futuro.
 
 Por eso es necesario meditar para tener claridad. Dejar que los pensamientos pasen, sin aferrarse a ellos, para conocernos mejor y para tranquilizarnos. Algo bueno es no leer nada a la mañana, para darle lugar a tus propios pensamientos de emerger. Así, de a poco, vamos cayendo en cuenta de algunas cosas y dejamos de pelearnos para empezar a construir en serio, desde el amor.
 
-# Lo importante
+### Lo importante
 Lo importante es aquello que:
 
 - Nos ayuda en nuestro viaje de autodescubrimiento
@@ -259,25 +259,25 @@ Lo importante es aquello que:
 - Nos permite ser conscientes de qué cosas nos sacan de nuestro eje.
 
 
-# Estructura social inclusiva
+### Estructura social inclusiva
 Si valoramos al individuo y creemos que todos tienen derecho a desarrollarse, cabe pensar en un modelo de sociedad en el que esos derechos estén satisfechos. Imaginemos una red global en la que todos comparten ideas y objetos: quien necesitara algo sería satisfecho por sus contactos más cercanos y de esta forma se aseguraría la supervivencia de todos.
 
-# Planes
+### Planes
 El plan es necesario para bajar la ansiedad y comenzar, para entender el contexto en el que tiene sentido lo que estamos haciendo en cada momento, pero el plan no debe ser el rector de todo lo que hacemos, porque corremos el riesgo de convertirnos en **víctimas de nuestra propia obsesividad**, es decir, que nuestra propia ansiedad por lograr algo, la que nos llevó a ensayar un plan, sea la que nos impide disfrutar del éxito del mismo.
 
-# Comunicación liberadora
+### Comunicación liberadora
 
 En este momento tenemos medios de comunicación alternativos a bajo costo y estamos viendo cambios en las ideas, en las formas de vida, y de organización.
 ¿Llevarán estos cambios a la desaparición del yugo capitalista que nos impide ser libres? ¿O sólo consiguen que hagamos evidente patetismo de esclavos del consumo, exponiéndonos para ser analizados, perfilados, catalogados y personalizados por los sistemas de publicidad?
 
-# ¿Qué es lo que podemos aprender de los indios?
+### ¿Qué es lo que podemos aprender de los indios?
 Lo que saben es como producir comida sin usar petroleo, lo que saben es como tranquilizar el alma sin pastillas, es como organizarnos para no pelear y como vivir con justicia sin dinero.
 
 Hay que reconocer nuestro fracaso en esas áreas, hay que abandonar el barco de los estados-nación, de ser televidentes de producciones foráneas, de ser radioescuchas y audiencia de medios de comunicación que sólo hablan de los intereses económicos de sus dueños. Pero sobre todo tenemos que dejar de buscar frenéticamente cosas vacías, dejar de hacer conseciones en nuestros sueños, y soñar -eso sí- un mundo donde quepan muchos mundos
 
-# 4. Manipulación y represión
+## Manipulación y represión
 
-# Control social: manipulación y represión
+### Control social
 
 El estado y las corporaciones despliegan métodos para mantener y ampliar su poder y su control sobre la población. Estrategias para legitimar el sistema basado en desigualdad en el que vivimos, para garantizar su reproducción y destruir las expresiones de resistencia que inevitablemente surjan.
 
@@ -285,7 +285,7 @@ Hoy en día buena parte de nuestra vida se desarrolla en lugares virtuales y no 
 
 Constantemente se pueden presenciar declaraciones de nuevas tecnologías que en sí mismas solucionarían todos los problemas de la humanidad. Pero si nuestras relaciones sociales son de opresión ¿cómo no se va a ver esto reflejado en la aplicación de estas supuestas soluciones?
 
-## Manipulación personalizada
+#### Manipulación personalizada
 El control de los medios de comunicación es una herramienta indiscutible para generar hegemonía y darle forma a la conciencia colectiva.
 
 Internet por momentos parece poner en jaque esta situación. De pronto pequeños grupos e individuos pueden llegar a millones de personas de forma que nunca lograrían repartiendo volantes y períodicos en las calles.
@@ -296,7 +296,7 @@ La propaganda y la publicidad pueden estar hechas a medida de cada individuo. Se
 Los resultados de búsqueda y las noticias que se muestran se pueden ordenar a medida de cada persona. Se podrían esperar resultados más precisos y acordes con nuestra ideología pero al mismo tiempo puede haber otros intereses en esa selección.
 
 
-## Miedo y pasividad
+#### Miedo y pasividad
 El hecho de que nuestra actividad, nuestras ideas, nuestras relaciones se encuentren constantemente monitoreadas nos llevan al miedo y a la pasividad.
 En mayor o menor medida todo individuo busca expresar sus opiniones, es parte de nuestra condición.
 
@@ -309,14 +309,14 @@ A diferencia de los otros en este punto se puede encontrar que hay algo cualitat
 El constante estado de vigilancia lleva a volverse más pasivo. Cuidamos lo que decimos, lo que hacemos y tratamos de volvernos menos intimidantes ante el orden establecido.
 
 
-## Persecución y represión
+#### Persecución y represión
 Por supuesto, el estado y las corporaciones no se limitan a usar la los medios de comunicación y la escuela para acumular poder y legitimar su posición: la persecución y la represión también son moneda corriente.
 
 Nuestra vida digital nos expone como disidentes, activistas, militantes y subversivos ya sea por nuestra actividad en plataformas controladas o por nuestro interés en espacios que defiendan el anonimato. Al fin y al cabo quien tenga algo para ocultar es un criminal que debe ser perseguido.
 
 Esto es importante incluso para alguien que no se considere dentro de este grupo. Tal vez en el futuro las cosas cambien y se encuentre con que se encuentra seriamente expuesta desde el vamos.
 
-# 5. Vigilancia y apropiacion
+## Vigilancia y apropiacion
 
 _La mejora del humano por tecnologías_ es tan central a nuestra historia que es
 considerado parte escencial de la especie y como medida de la inteligencia.
@@ -332,7 +332,7 @@ Estas dependencias habilitan un conjunto de posibilidades del cual una
 herramienta es solo una aplicación particular para maximizar un objetivo
 puntual establecido por alguien.
 
-## Vigilancia y Manipulación
+#### Vigilancia y Manipulación
 
 La _gran cantidad de datos disponibles sobre todas las personas_ (gracias al
 mercado de datos de los diferentes medios de comunicación) junto con métodos
@@ -352,7 +352,7 @@ Esta herramienta de vigilancia y manipulación permite al estado y el capital
 vender productos, instalar sus candidatos y manipular a las personas para
 mantener su posición de poder.
 
-## Apropiación
+#### Apropiación
 
 En la medida en que las herramientas y el conocimiento se apropian y son de libre
 acceso, se habilitan sus diferentes posibilidades y se resuelve la asimetría
