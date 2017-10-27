@@ -257,6 +257,7 @@ van a encontrar los principales elementos que vamos a estar usando. Ante cualqui
     *   [Paso a paso en GitHub](https://guides.github.com/activities/hello-world/)
     *   [Git en 15 minutos de consola](https://try.github.io/levels/1/challenges/1)
     *   [Videos introductorios](https://git-scm.com/videos)
+    *   [Git-it](https://www.github.com/jlord/git-it-electron) parece una forma fácil de aprender
     *   Libro de Git
         *   [v1 en español](https://git-scm.com/book/es/v1)
         *   [v2 en inglés](https://git-scm.com/book/en/v2)
