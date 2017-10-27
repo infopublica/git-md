@@ -29,10 +29,18 @@ información y comunicación (técnicamente y en el sentido contemporáneo).
 Justamente es el desarrollo de tecnologías de información y comunicación
 lo que, en suma, ha demostrado un progresivo grado de avance y sofisticación
 ...junto con su _"weaponización"_. Llamamos "weaponización" al proceso por el
-cuál un descubrimiento o invención dado se aplica con fines bélicos. ¿Ejemplo
-canónico? el manejo **remoto** de _drones_ asesinos.
+cuál un descubrimiento o invención, dado, se aplica con fines bélicos. ¿Ejemplo
+canónico? el manejo **remoto** de _drones_ asesinos a través de la biblioteca
+más grandiosa que haya sido inventada hasta la fecha (Internet).
 
-------------
+Internet no sólo es una biblioteca ("tiene monos haciéndolo!", dixit H. Simpson).
+Su carácter tecnológico resulta tan superador que la cantidad de fines
+a los que se aplica resulta abrumadoramente diverso. Además de los ya citados
+drones y monos haciéndolo, tenemos una cantidad impresionante de transacciones
+comerciales.
+
+El lector atento notará que los ejemplos más importantes guardan una relación
+poco casual con el ordenamiento hegemónico de los cuerpos... y las ideas.
 
 > "En la transmisión antigua el límite era la cantidad de espacio de las ondas
 > radiofónicas. Solo se podían transmitir 10 canales de televisión, e
@@ -80,14 +88,14 @@ del régimen Iraní en su blog):
 > (Hossein Derakhshan).
 
 Este fenómeno que H. Derakhshan describe para Internet, es sin duda parte de
-lo que **Tim Wu** denomina "El Ciclo". Algo que fue descripto con cada una de
-las tecnologías que revolucionaron los últimos ~100 años de la especie humana.
+lo que **Tim Wu** denomina "El Ciclo". Algo que fue descripto con todas y cada una de
+las tecnologías que revolucionaron en los últimos 100 años a la especie humana:
 Nos referimos al telegrama, el telefono, el cine, la radio y la televisión.
 
 > "La historia demuestra una progresión típica de las tecnologías de
 > información, desde el pasatiempos de alguien hasta la industria de otro;
 > desde un artilugio improvisado hasta una aceitosa producción maravillosa;
-> desde una canal  accesible libremente a uno estrictamente controlado por
+> desde una canal accesible libremente, a uno estrictamente controlado por
 > una única corporación o cartel... desde un sistema abierto a uno cerrado."
 >  (Tim Wu).
 
@@ -99,12 +107,21 @@ Según Wu, "El Ciclo" tiene 5 etapas:
 4. Una vez que las corporaciones son lo suficientemente poderosas, "engañan" al gobierno para que los ayude a sostener la tecnología. Se instalan a sí mismas como "monopolios naturales".
 5. Tras un período de estancamiento, una nueva tecnología emerge para disromper la vieja. Esto a veces desaloja al viejo monopolio. Pero a veces sólo lo cristaliza.
 
-Estamos en el paso 4. Prueba de ello son los avances contra la neutralidad de
-la red (**desarrollar**). Paralelo al paso 2, 3 y 4, también podríamos datar la "weaponización"
-anteriormente descripta.
+En lo que a Internet respecta, en paralelo a los pasos 2, 3 y 4, podríamos
+datar la "weaponización" anteriormente descripta. Nos encontramos en el punto
+número 4. Prueba de ello son los avances en contra de la **neutralidad de la red**.
 
-En esa progresión que está sufreindo internet como tecnología, podemos identificar un punto de partida y una serie de
-elementos que van generando las señales del camino que está siguiendo y nos indican la dirección de su destino. 
+El principio de neutralidad de la red implica que las compañias proveedoras de la
+conexión no dan mayor o menor velocidad al tránsito según se trate de la usuaria
+queriendo ingresar a Wikipedia o... Netflix. Es decir, ningún sitio puede pagar al
+proveedor de Internet para que las usuarias tengan mejor tránsito hacia su sitio.
+Obviamente si miramos con ojos críticos proyectos como Facebook Basics o las
+promociones de WhatsApp ilimitado nos daríamos cuenta que la tan mentada neutralidad
+es una utopía... pero volvamos a los pasos de "El Ciclo" según Wu.
+
+En esa progresión que está sufriendo Internet como tecnología,
+podemos identificar un punto de partida, en los laboratorios, y una serie de
+elementos que van generando las huellas de su camino. Su destino pareciera e$crito.
 
 # 2 Estrategia solucionismo: manipulación y usados
 
