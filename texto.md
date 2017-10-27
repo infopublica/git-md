@@ -2,38 +2,18 @@
 
 ## Indice
 
-1. Contextos
-2. Estrategia solucionismo: manipulación y usados
-3. Filosofía de los usados
-4. Manipulación y represión
-5. Vigilancia y apropiación
+1. [El fuego y la rueda](#El-fuego-y-la-rueda)
+2. [Estrategia solucionismo](#Estrategia-solucionismo)
+3. [Filosofía de los usados](#Filosofía-de-los-usados)
+4. [Manipulación y represión](#Manipulación-y-represión)
+5. [Vigilancia y apropiación](#Vigilancia-y-apropiación)
 
-# 1 Contextos
-a informaciòn como herramienta para la liberaciòn o la dominaciòn, y de què
-manera puede ser aplicada. La comunicaciòn (o sus medios, soporte, distintas
-formas).... La comunicaciòn en el sentido de estar al servicio del capital,
-de las corporaciones, de los poderes econòmicos, en la bùsqueda de su
-permanencia en ese lugar de privilegio o, màs aùn, de incrementar sus
-privilegios. Por ahì serìa de relevancia un recorrido històrico de quiènes
-fueron teniendo estas herramientas desde un inicio de las dominaciones, y por
-otro lado tener en cuenta la comunicaciòn como algo inherente a todxs desde
-las relaciones y expresiones màs bàsicas y primitivas, inherentes a la
-existencia misma. Y tambièn incorporando las herramientas de la psicologìa y el
-màrketing basàndose en los deseos de las personas (en esto recuerdo la serie
-documental de la BBC -creo- llamada El siglo del yo -The century of the self-:
-https://es.wikipedia.org/wiki/El_siglo_del_individualismo).
-
+## El fuego y la rueda
 ¿Todos los inventos se convierten en armas?
 
-Si todos los inventos se convierten en armas, ¿Será porque las guerras son una
-característica intrínsicamente humana, como la "inteligencia"? ¿Qué es esta cosa
-que llamamos inteligencia? ¿una capacidad de procesar información con el fin de
-extraer conocimiento _útil_?...
-
-Todos los inventos se convierten en armas. Ejemplo canónico, la energía atómica.
+Todos los inventos se convierten en armas. Ejemplo canónico, la energía atómica...
 Pero antes fueron el fuego, la rueda y quizás la imprenta. Por dar tres ejemplos
-groseros de la historia humana, cada ejemplo requiere de un grado mayor de
-abstracción, parece mas forzado...
+groseros de la historia.
 
 Rick Falkvinge narra en ["Historias del Copyright"](https://utopia.partidopirata.com.ar/historia_del_copyright.html)
 bajo qué contextos sociales surgen las leyes de propiedad intelectual. Es muy
@@ -49,10 +29,18 @@ información y comunicación (técnicamente y en el sentido contemporáneo).
 Justamente es el desarrollo de tecnologías de información y comunicación
 lo que, en suma, ha demostrado un progresivo grado de avance y sofisticación
 ...junto con su _"weaponización"_. Llamamos "weaponización" al proceso por el
-cuál un descubrimiento o invención dado se aplica con fines bélicos. ¿Ejemplo
-canónico? el manejo **remoto** de _drones_ asesinos.
+cuál un descubrimiento o invención, dado, se aplica con fines bélicos. ¿Ejemplo
+canónico? el manejo **remoto** de _drones_ asesinos a través de la biblioteca
+más grandiosa que haya sido inventada hasta la fecha (Internet).
 
-------------
+Internet no sólo es una biblioteca ("tiene monos haciéndolo!", dixit H. Simpson).
+Su carácter tecnológico resulta tan superador que la cantidad de fines
+a los que se aplica resulta abrumadoramente diverso. Además de los ya citados
+drones y monos haciéndolo, tenemos una cantidad impresionante de transacciones
+comerciales.
+
+El lector atento notará que los ejemplos más importantes guardan una relación
+poco casual con el ordenamiento hegemónico de los cuerpos... y las ideas.
 
 > "En la transmisión antigua el límite era la cantidad de espacio de las ondas
 > radiofónicas. Solo se podían transmitir 10 canales de televisión, e
@@ -64,11 +52,11 @@ canónico? el manejo **remoto** de _drones_ asesinos.
 > dicen a donde debes ir en Internet. La gente que te brinda las fuentes de
 > noticias e información. No es que cierta gente tiene licencia para hablar,
 > ahora todos pueden hablar. La cuestión es quién \[y cómo\] se hace escuchar"
-> ([Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz), November 8, 1986 – January 11, 2013\).
+> ([Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz), November 8, 1986 – January 11,
+2013\).
 
 Las grandes corporaciones valen miles de millones de dolares por ser las
-mejores explotando una cosa: la información. Además, es como dice [Hossein Derakhshan](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)
-(tras haber estado preso seis años entre 2008 y 2014, por escribir en contra
+mejores explotando una cosa: la información. Además, es como dice [Hossein Derakhshan](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426) (tras haber estado preso seis años entre 2008 y 2014, por escribir en contra
 del régimen Iraní en su blog):
 
 > "Quizás es que el texto en sí mismo está desapareciendo. Después de todo, los
@@ -82,11 +70,11 @@ del régimen Iraní en su blog):
 > cosas, y compañias enteras --monopolios enteros-- fueron construidos a
 > partir de ello. (...)
 > Pero el "Stream" \[NdT: pag. de inicio en facebook x ej\], las aplicaciones
-> de celulares y las imágenes que se mueven, todo: demuestran un alejamiento
-> desde la internet-libro hacia la internet-television. Parece que nos hemos
+> de celulares y las imágenes que se mueven, todo: demuestra un alejamiento
+> desde la internet-libro hacia la internet-televisión. Parece que nos hemos
 > ido desde un modo no-linear de comunicacion (nodos, red y enlaces) a uno
-> **linear, con centralizacion y jerarquias.** La red no fue visionada
-> como una forma de televisión cuando se inventó. Pero, nos guste o no, está
+> **linear, con centralizacion y jerarquias.**. La red no fue visionada
+> como una forma de televisión cuando se inventó, pero, nos guste o no, está
 > rápidamente pareciéndose a la TV: lineal, pasiva, programada y **autista**.
 > Cuando entro a facebook, mi television personal comienza. Todo lo que tengo
 > que hacer es scrollear: amigos con fotos de perfil nuevas, pequeños trocitos
@@ -100,14 +88,14 @@ del régimen Iraní en su blog):
 > (Hossein Derakhshan).
 
 Este fenómeno que H. Derakhshan describe para Internet, es sin duda parte de
-lo que **Tim Wu** denomina "El Ciclo". Algo que fue descripto con cada una de
-las tecnologías que revolucionaron los últimos ~100 años de la especie humana.
+lo que **Tim Wu** denomina "El Ciclo". Algo que fue descripto con todas y cada una de
+las tecnologías que revolucionaron en los últimos 100 años a la especie humana:
 Nos referimos al telegrama, el telefono, el cine, la radio y la televisión.
 
 > "La historia demuestra una progresión típica de las tecnologías de
 > información, desde el pasatiempos de alguien hasta la industria de otro;
 > desde un artilugio improvisado hasta una aceitosa producción maravillosa;
-> desde una canal  accesible libremente a uno estrictamente controlado por
+> desde una canal accesible libremente, a uno estrictamente controlado por
 > una única corporación o cartel... desde un sistema abierto a uno cerrado."
 >  (Tim Wu).
 
@@ -119,64 +107,91 @@ Según Wu, "El Ciclo" tiene 5 etapas:
 4. Una vez que las corporaciones son lo suficientemente poderosas, "engañan" al gobierno para que los ayude a sostener la tecnología. Se instalan a sí mismas como "monopolios naturales".
 5. Tras un período de estancamiento, una nueva tecnología emerge para disromper la vieja. Esto a veces desaloja al viejo monopolio. Pero a veces sólo lo cristaliza.
 
-Estamos en el paso 4. Prueba de ello son los avances contra la neutralidad de
-la red. Paralelo al paso 2, 3 y 4, también podríamos datar la "weaponización"
-anteriormente descripta.
+En lo que a Internet respecta, en paralelo a los pasos 2, 3 y 4, podríamos
+datar la "weaponización" anteriormente descripta. Nos encontramos en el punto
+número 4. Prueba de ello son los avances en contra de la **neutralidad de la red**.
 
-# 2 Estrategia solucionismo: manipulación y usados
+El principio de neutralidad de la red implica que las compañias proveedoras de la
+conexión no dan mayor o menor velocidad al tránsito según se trate de la usuaria
+queriendo ingresar a Wikipedia o... Netflix. Es decir, ningún sitio puede pagar al
+proveedor de Internet para que las usuarias tengan mejor tránsito hacia su sitio.
+Obviamente si miramos con ojos críticos proyectos como "Facebook Basics" o las
+promociones de "WhatsApp ilimitado" nos daríamos cuenta que la tan mentada neutralidad
+es tanto utopía como nostalgia de un tiempo que no llegamos a vivir...
 
-Una búsqueda principal en la cultura humana ha sido la búsqueda de la totalidad. Esa búsqueda vendría marcada por el deseo 
-de superar lo individual, de acceder a una idea global, universal y con validez general en todo momento y en todo lugar. 
-Sabemos que lo particular siempre está relacionado con una totalidad, pero éste deseo de trascendencia de la propia 
-particularidad puede pensarse como una expresión del deseo por la libertad. A lo largo de historia han existido movimientos 
+En esta progresión que estamos dándo a Internet podemos identificar tanto
+su punto de partida en los laboratorios así como también a una serie de
+elementos, las huellas de su recorrido. Su destino pareciera e$crito.
+
+## Estrategia solucionismo
+
+### El punto de partida
+
+Una búsqueda peculiar en la cultura ha sido y sigue siendo la búsqueda de la totalidad. Esa búsqueda vendría marcada por el
+deseo de superar lo individual, de acceder a una idea global, universal y con validez general en todo momento y en todo
+lugar. Sabemos que lo particular siempre está relacionado con una totalidad, pero éste deseo de trascendencia de la propia 
+particularidad puede pensarse como una expresión del deseo de la capacidad de hacer, de modificar las condiciones que nos
+brinda el entorno, por alcanzar la libertad. A lo largo de historia han existido movimientos 
 de autoliberación en nombre de la totalidad…
 
-Del mismo modo conocemos, vemos, leemos y escuchamos los mitos que proponen relatos para el origen del mundo, su
-funcionamiento y su final inevitable. Por otro lado leemos ensayos, artículos y distintos tipos de publicaciones científicas
-que describen al mundo según los principios de la razón. En todos estas experiencias podemos percibir cierto sentimiento de
-totalidad. Ahora bien, todas esas narrativas y discursos presuponen en nuestras mentes la habilidad para elevarnos por sobre
-lo inmediato de nuestra experiencia y acceder a la generalidad de una razón universal. El acceso a esa totalidad sería algo
-así como una superación de la experiencia humana para alcanzar un sentimiento de  inmortalidad.
+Del mismo modo, conocemos, vemos, leemos y escuchamos los mitos que proponen relatos para el origen del mundo, su
+funcionamiento y su final inevitable. Así es que por otro lado, leemos ensayos, artículos y distintos tipos de publicaciones
+científicas que describen al mundo según los principios de la razón. En el mejor de los casos a lo largo de nuestra vida
+eventualmente aportamos información a través de algún tipo de publicación: escribimos un texto o un artículo en un blog,
+diseñamos algo, producimos un vídeo, componemos una canción y/o publicamos algo en alguna red social. Se podría decir que
+todas estas experiencias poseen el factor común de conferirnos cierto sentimiento de totalidad. Ahora bien, todas esas
+narrativas, lenguajes y discursos involucran la habilidad para elevarnos por sobre lo inmediato de
+nuestra experiencia individual y acceder a la generalidad de una razón colectiva universal. El acceso a esa totalidad sería
+algo así como una superación de la experiencia humana para alcanzar una especie de sentimiento de inmortalidad.
 
-El acceso a la información hoy en día se da principalmente mediante internet, y dentro de ésta solemos intercambiar
-información bajo la forma de usuarios. Ésta definición está dada por el hecho de que nuestra experiencia en internet está
+### Las señales que nos definen
+
+El acceso a la información hoy en día se da principalmente mediante internet. Dentro de ésta solemos intercambiar
+información bajo la forma de usuarixs. Ésta definición está dada por el hecho de que nuestra experiencia en internet es
 soportada por un conjunto de servidores que ofrecen el servicio de acceso y almacenamiento de información. Pero pese a cómo
-se muestra, como un espacio anónimo para la libre recreación del individuo y su personalidad, es decir como evocación neutral
-de un supuesto medio ambiente físico y social democráticos; internet opera en realidad como un mundo cerrado e inaccesible,
-lo que se puede ver, a lo que se accede, constituye una interfaz de simulación a modo de plataformas interactivas a través de
-las cuales los usuarios nos conectamos.
+se muestra, es decir como un espacio anónimo para la libre recreación del individuo y su personalidad, es decir como
+evocación neutral de un supuesto medio ambiente físico y social democráticos; internet opera en realidad como un mundo
+cerrado e inaccesible: lo que se puede ver, a lo que se accede, constituye una interfaz de simulación a modo de plataformas
+interactivas a través de las cuales los usuarios nos conectamos.
 
 En todo esto, la/el cuerpx material de la sujetx usuarix está ausente, lo que existe es su metadata, la información sobre el
-aquí y ahora de su ubicación y su comportamiento en el fluido de la información. Cuando esa metadata es sometida a vigilancia
-y se vincula a la identidad de un cuerpo humano físico, adquiere la capacidad de re/crear una sujetx del control. Pero
-nuestras cuerpas no son la única soporte material que tenemos como individuxs. Estamos inscriptxs en una serie de sistemas de
-información que legislan, regulan y sancionan las formas en las que atravesamos las instituciones. Esos soportes materiales
-de nuestras personas son archivos estatales, judiciales, migratorios, impositivos, historias clínicas, contraseñas de
-portales de organismos de gestión pública y muchos otros.
+aquí y ahora de su ubicación y su comportamiento en el fluido de la información. Cuando esa metadata es sometida a
+vigilancia y se vincula a la identidad de una cuerpx humanx físicx, adquiere la capacidad de re/crear una sujetx del
+control. Pero nuestrxs cuerpxs no son la únicx soporte material que tenemos como individuxs. Estamos inscriptxs en una serie
+de sistemas de información que legislan, regulan y sancionan las formas en las que atravesamos las instituciones. Esos
+soportes materiales de nuestras personas son archivos estatales, judiciales, migratorios, impositivos, médicos,
+contraseñas de portales de organismos de gestión pública y muchos otros.
 
-La capacidad de los poderes políticos y económicos que tienen el monopolio exclusivo de acceso a nuestra información y de
+### Una estrategia en una dirección
+
+La capacidad de los poderes políticos y económicos que tienen el monopolio exclusivo del acceso a nuestra información y de
 definir nuestras identidades mediante la interconexión de una serie de datos en los soportes que dan sustrato al sistema
-social, es el basamento represivo principal de la distribución desigual del poder en la internet que conocemos.
+social, constituye el basamento represivo principal de la distribución desigual del poder en la internet que conocemos.
 
-Así, el esfuerzo por profundizar el enfoque que define la construcción de unx usuarix con una personalidad, constituye la
-expresión de la necesidad de plantear una unidad de informacion acotada y controlable. También representa el desenlace de la
-identidad del individuo como ciudadano, también vinculado a una serie de datos controlados por el estado. Pero la categoría
-de usuarix en relación a la experiencia de realidad ofrecida por una plataforma, representa un desenlace que no libera, sino
-que por el contrario concreta el objetivo de vincular en un orden superior de complejidad, no sólo la informacion (ya
-controlada) del ciudadano, sino tambien, y sobre todo, la del sujeto ciudadano consumidor en el ámbito público, privado y en
-el de las redes. De esta forma, la definición biológica de especie como un grupo de individuos capaces de reproducirse
-(intercambiar información), de individuo como persona sujeta de derechos, de ser humano como especie social que se organiza
-a través de reglas consensuadas en una estructura de poder centralizada y el hecho que esa forma de poder conforme un estado
-que reglamenta las leyes que garantizan las relaciones justas entre los individuos; todo esto converge en el punto de control
-en el que el poder requiere contar con una unidad (o categoria) de análisis para perpetuar su situación, un ente que genera
-datos a través de los medios que se ponen a disposicion en el mercado.
+Así, el esfuerzo por profundizar el enfoque que define la construcción sibólica de unx usuarix con una personalidad,
+constituye la expresión de la necesidad de plantear una unidad de información acotada y controlable. También representa el
+desenlace de la identidad de lx individux como ciudadanx, también vinculadx a una serie de datos controlados por el estado.
+Sin embargo, la categoría usuarix en esta internet y en relación a la experiencia de realidad ofrecida por una "X"
+plataforma, representa un desenlace que no libera sino que por el contrario, concreta el objetivo de vincular en un orden
+superior de complejidad, no sólo la informacion (ya controlada) del ciudadano, sino también (y sobre todo), la de lx sujetx
+ciudadanx consumidorx en el ámbito público, en el privado y en el de las redes. De esta forma, la definición biológica de
+especie como un grupo de individuos capaces de reproducirse (intercambiar información), de individuo como persona sujeta de
+derechos, de ser humano como especie social que se organiza a través de reglas consensuadas en una estructura de poder
+centralizada y el hecho de que esa forma de poder conforme un estado que reglamenta las leyes que garantizan las relaciones
+justas entre los individuos; todo esto converge en el punto de control en el que el poder requiere contar con una unidad (o
+categoria) de análisis para perpetuar su situación, un ente que genera datos a través de los medios que se ponen a
+disposicion en el mercado.
+
+### Ser usados como único destino
 
 De esta forma, el control del mercado por parte de los intereses privados y el control estatal convergen ambos bajo una
 redefinición del acceso a bienes culturales como una forma más de consumo. A través del consumo y en particular, de la
-adopción sumisa de nuestros roles como consumidores, ciudadanxs y usuarixs, los poderes nos ofrecen inscribirnos dentro de un
-relato que nos propone (o nos vende) el acceso a la totalidad de la experiencia humana. De esta forma, el libre acceso se
-plantea como un modelo de circulación de mercancías culturales y como un discurso sobre las condiciones de control del medio,
-que se nos plantean como dadas.
+adopción sumisa de nuestros roles como consumidorxs, ciudadanxs y usuarixs, los poderes nos fuerzan a inscribirnos dentro de
+un relato que nos propone (o nos vende) el acceso a la totalidad de la experiencia humana. De esta forma, el libre acceso se
+plantea como un modelo de circulación de mercancías culturales y como un discurso sobre las condiciones de control del
+medio, que se nos plantean como dadas.
+
+### La posibilidad de abrir nuevos caminos
 
 En este conexto el analfabetismo digital es funcional al sueño de la internet como espacio liberador y liberado. Sólo unos
 pocos privilegiados, aquellxs quienes trabajan asistiendo al servicio técnico de la red de control de datos que es la www y
@@ -187,9 +202,9 @@ orden presente de las cosas y de las reglas que gobiernan los espacios tanto onl
 plantear esas disputas.
 
 
-# 3. Filosofía de los usados
+## Filosofía de los usados
 
-## La grieta es universal
+### La grieta es universal
 Las partículas elementales que crean todos los cuerpos humanos son las mismas
 que hace miles de millones de años llegaron a nuestro planeta desde el núcleo de las estrellas gigantes y remotas.
 
@@ -199,12 +214,12 @@ Acá lo explica el Neil DeGrasse Tyson:
 Sin embargo, desde el instante posterior al big bang existe una desigualdad en la distribución de la materia en el universo, debido a [un proceso astrofísico aún no
 esclarecido](http://www.physics.org/article-questions.asp?id=121).
 
-# Tendiendo y rompiendo puentes
+### Tendiendo y rompiendo puentes
 Los grupos humanos forman relaciones de interdependencia, nadie puede existir en soledad absoluta, siempre se está rodeado del trabajo ajeno, al punto que a veces se lo deja de valorar, y se exige demasiado.
 
 Entonces ocurre que una persona opone resistencia a satisfacer determinadas necesidades, luego se arman grupos de personas resistiéndose el uno al otro, y grupos de grupos, y así hasta lograr divisiones, especializaciones y estratificaciones tan complejas como el cerebro humano lo permite.
 
-# El material circulante
+### El material circulante
 En esta intrincada red de relaciones sociales, las divisiones se recubren de símbolos. Cada agujero, cada vacío tiene una reacionalización que la explica.
 
 ¿Qué mandamos cuando nos comunicamos con otros? ¿Una piña o una caricia?
@@ -216,7 +231,7 @@ Cada uno intenta ir acomodándose para poder subsistir en un mundo tan violento 
 Las relaciones amorosas son en las que nos entregamos sin especulación, damos lo que tenemos sin expectativa de retener al otro por eso.
 Las relaciones violentas son aquellas donde forzamos al otro a darnos lo que necesitamos sin que sea su voluntad.
 
-## La libertad es de todes
+### La libertad es de todes
 
 No se puede ser 100% libre por que nuestras necesidades vitales no se satisfacen en soledad.
 Pero la libertad que haya debe ser la libertad de todos, debe incluirlos a todos, porque no se llega a la libertad mientras haya rejas.
@@ -228,14 +243,14 @@ Como muestra la siguiente tabla periódica, las necesidades humanas son muy dive
 
 [Fuente](http://thinkersco.com/wp/2015/05/20/tabla_periodica_necesidades/)
 
-# Que hacer
+### Que hacer
 Para elevar la consciencia más allá de las ideas preconcebidas, para poder aprender por nosotros mismos de lo que ocurre, sin negarlo, sin traicionarnos, es necesario conservar el pasmo ante los fenómenos, poder ver las cosas como son, consolidar nuestra base en la realidad inmediata, en lo que actualmente ocurre en nuestra consciencia y no en ideas abstractas.
 
 Por ejemplo asociar nuestra identidad a una nación o nuestro lugar en la sociedad es sólo un reflejo del deber-ser, del super-yo, que tanto nos exige. Es una carga que nos impide ser a la vez conscientes de lo concreto de nuestra percepción y también del camino eterno, del pasado y el futuro.
 
 Por eso es necesario meditar para tener claridad. Dejar que los pensamientos pasen, sin aferrarse a ellos, para conocernos mejor y para tranquilizarnos. Algo bueno es no leer nada a la mañana, para darle lugar a tus propios pensamientos de emerger. Así, de a poco, vamos cayendo en cuenta de algunas cosas y dejamos de pelearnos para empezar a construir en serio, desde el amor.
 
-# Lo importante
+### Lo importante
 Lo importante es aquello que:
 
 - Nos ayuda en nuestro viaje de autodescubrimiento
@@ -244,25 +259,25 @@ Lo importante es aquello que:
 - Nos permite ser conscientes de qué cosas nos sacan de nuestro eje.
 
 
-# Estructura social inclusiva
+### Estructura social inclusiva
 Si valoramos al individuo y creemos que todos tienen derecho a desarrollarse, cabe pensar en un modelo de sociedad en el que esos derechos estén satisfechos. Imaginemos una red global en la que todos comparten ideas y objetos: quien necesitara algo sería satisfecho por sus contactos más cercanos y de esta forma se aseguraría la supervivencia de todos.
 
-# Planes
+### Planes
 El plan es necesario para bajar la ansiedad y comenzar, para entender el contexto en el que tiene sentido lo que estamos haciendo en cada momento, pero el plan no debe ser el rector de todo lo que hacemos, porque corremos el riesgo de convertirnos en **víctimas de nuestra propia obsesividad**, es decir, que nuestra propia ansiedad por lograr algo, la que nos llevó a ensayar un plan, sea la que nos impide disfrutar del éxito del mismo.
 
-# Comunicación liberadora
+### Comunicación liberadora
 
 En este momento tenemos medios de comunicación alternativos a bajo costo y estamos viendo cambios en las ideas, en las formas de vida, y de organización.
 ¿Llevarán estos cambios a la desaparición del yugo capitalista que nos impide ser libres? ¿O sólo consiguen que hagamos evidente patetismo de esclavos del consumo, exponiéndonos para ser analizados, perfilados, catalogados y personalizados por los sistemas de publicidad?
 
-# ¿Qué es lo que podemos aprender de los indios?
+### ¿Qué es lo que podemos aprender de los indios?
 Lo que saben es como producir comida sin usar petroleo, lo que saben es como tranquilizar el alma sin pastillas, es como organizarnos para no pelear y como vivir con justicia sin dinero.
 
 Hay que reconocer nuestro fracaso en esas áreas, hay que abandonar el barco de los estados-nación, de ser televidentes de producciones foráneas, de ser radioescuchas y audiencia de medios de comunicación que sólo hablan de los intereses económicos de sus dueños. Pero sobre todo tenemos que dejar de buscar frenéticamente cosas vacías, dejar de hacer conseciones en nuestros sueños, y soñar -eso sí- un mundo donde quepan muchos mundos
 
-# 4. Manipulación y represión
+## Manipulación y represión
 
-# Control social: manipulación y represión
+### Control social
 
 El estado y las corporaciones despliegan métodos para mantener y ampliar su poder y su control sobre la población. Estrategias para legitimar el sistema basado en desigualdad en el que vivimos, para garantizar su reproducción y destruir las expresiones de resistencia que inevitablemente surjan.
 
@@ -270,7 +285,7 @@ Hoy en día buena parte de nuestra vida se desarrolla en lugares virtuales y no 
 
 Constantemente se pueden presenciar declaraciones de nuevas tecnologías que en sí mismas solucionarían todos los problemas de la humanidad. Pero si nuestras relaciones sociales son de opresión ¿cómo no se va a ver esto reflejado en la aplicación de estas supuestas soluciones?
 
-## Manipulación personalizada
+#### Manipulación personalizada
 El control de los medios de comunicación es una herramienta indiscutible para generar hegemonía y darle forma a la conciencia colectiva.
 
 Internet por momentos parece poner en jaque esta situación. De pronto pequeños grupos e individuos pueden llegar a millones de personas de forma que nunca lograrían repartiendo volantes y períodicos en las calles.
@@ -281,7 +296,7 @@ La propaganda y la publicidad pueden estar hechas a medida de cada individuo. Se
 Los resultados de búsqueda y las noticias que se muestran se pueden ordenar a medida de cada persona. Se podrían esperar resultados más precisos y acordes con nuestra ideología pero al mismo tiempo puede haber otros intereses en esa selección.
 
 
-## Miedo y pasividad
+#### Miedo y pasividad
 El hecho de que nuestra actividad, nuestras ideas, nuestras relaciones se encuentren constantemente monitoreadas nos llevan al miedo y a la pasividad.
 En mayor o menor medida todo individuo busca expresar sus opiniones, es parte de nuestra condición.
 
@@ -294,14 +309,14 @@ A diferencia de los otros en este punto se puede encontrar que hay algo cualitat
 El constante estado de vigilancia lleva a volverse más pasivo. Cuidamos lo que decimos, lo que hacemos y tratamos de volvernos menos intimidantes ante el orden establecido.
 
 
-## Persecución y represión
+#### Persecución y represión
 Por supuesto, el estado y las corporaciones no se limitan a usar la los medios de comunicación y la escuela para acumular poder y legitimar su posición: la persecución y la represión también son moneda corriente.
 
 Nuestra vida digital nos expone como disidentes, activistas, militantes y subversivos ya sea por nuestra actividad en plataformas controladas o por nuestro interés en espacios que defiendan el anonimato. Al fin y al cabo quien tenga algo para ocultar es un criminal que debe ser perseguido.
 
 Esto es importante incluso para alguien que no se considere dentro de este grupo. Tal vez en el futuro las cosas cambien y se encuentre con que se encuentra seriamente expuesta desde el vamos.
 
-# 5. Vigilancia y apropiacion
+## Vigilancia y apropiacion
 
 _La mejora del humano por tecnologías_ es tan central a nuestra historia que es
 considerado parte escencial de la especie y como medida de la inteligencia.
@@ -317,7 +332,7 @@ Estas dependencias habilitan un conjunto de posibilidades del cual una
 herramienta es solo una aplicación particular para maximizar un objetivo
 puntual establecido por alguien.
 
-## Vigilancia y Manipulación
+#### Vigilancia y Manipulación
 
 La _gran cantidad de datos disponibles sobre todas las personas_ (gracias al
 mercado de datos de los diferentes medios de comunicación) junto con métodos
@@ -337,7 +352,7 @@ Esta herramienta de vigilancia y manipulación permite al estado y el capital
 vender productos, instalar sus candidatos y manipular a las personas para
 mantener su posición de poder.
 
-## Apropiación
+#### Apropiación
 
 En la medida en que las herramientas y el conocimiento se apropian y son de libre
 acceso, se habilitan sus diferentes posibilidades y se resuelve la asimetría
